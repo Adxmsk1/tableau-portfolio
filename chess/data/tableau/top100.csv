@@ -1,0 +1,157 @@
+year,band,band_order,players,leading_players,avg_age_top100,avg_age_top10
+2001,Under 20,0,4,"Ruslan Ponomariov, Alexander Grischuk, Alexander Nenashev",33.29,29.2
+2001,20-24,1,12,"Peter Leko, Alexander Morozevich, Rustam Kasimdzhanov",33.29,29.2
+2001,25-29,2,22,"Vladimir Kramnik, Alexei Shirov, Veselin Topalov",33.29,29.2
+2001,30-34,3,21,"Viswanathan Anand, Michael Adams, Vassily Ivanchuk",33.29,29.2
+2001,35-39,4,19,"Gary Kasparov, Evgeny Bareev, Alexander Khalifman",33.29,29.2
+2001,40 and over,5,22,"Mikhail Gurevich, Anatoly Karpov, Jiangchuan Ye",33.29,29.2
+2002,Under 20,0,4,"Ruslan Ponomariov, Alexander Grischuk, Etienne Bacrot",33.37,28.7
+2002,20-24,1,10,"Peter Leko, Rustam Kasimdzhanov, Zhong Zhang",33.37,28.7
+2002,25-29,2,27,"Vladimir Kramnik, Alexander Morozevich, Veselin Topalov",33.37,28.7
+2002,30-34,3,19,"Viswanathan Anand, Michael Adams, Vassily Ivanchuk",33.37,28.7
+2002,35-39,4,18,"Garry Kasparov, Evgeny Bareev, Alexander Khalifman",33.37,28.7
+2002,40 and over,5,22,"Anatoly Karpov, Jiangchuan Ye, Zurab Azmaiparashvili",33.37,28.7
+2003,Under 20,0,2,"Teimour Radjabov, Evgeny Alekseev",33.38,29.4
+2003,20-24,1,13,"Peter Leko, Ruslan Ponomariov, Alexander Grischuk",33.38,29.4
+2003,25-29,2,22,"Vladimir Kramnik, Veselin Topalov, Judit Polgar",33.38,29.4
+2003,30-34,3,23,"Viswanathan Anand, Michael Adams, Alexei Shirov",33.38,29.4
+2003,35-39,4,15,"Evgeny Bareev, Alexander Khalifman, Boris Gelfand",33.38,29.4
+2003,40 and over,5,25,"Garry Kasparov, Anatoly Karpov, Jiangchuan Ye",33.38,29.4
+2004,Under 20,0,4,"Teimour Radjabov, Shakhriyar Mamedyarov, Evgeny Alekseev",32.55,29.5
+2004,20-24,1,13,"Ruslan Ponomariov, Alexander Grischuk, Vladimir Malakhov",32.55,29.5
+2004,25-29,2,26,"Vladimir Kramnik, Peter Svidler, Veselin Topalov",32.55,29.5
+2004,30-34,3,16,"Alexei Shirov, Michael Adams, Vladimir Akopian",32.55,29.5
+2004,35-39,4,19,"Viswanathan Anand, Vassily Ivanchuk, Evgeny Bareev",32.55,29.5
+2004,40 and over,5,22,"Garry Kasparov, Anatoly Karpov, Jiangchuan Ye",32.55,29.5
+2005,Under 20,0,3,"Andrei Volokitin, Teimour Radjabov, P. Harikrishna",32.8,30.6
+2005,20-24,1,18,"Etienne Bacrot, Alexander Grischuk, Ruslan Ponomariov",32.8,30.6
+2005,25-29,2,24,"Peter Leko, Alexander Morozevich, Peter Svidler",32.8,30.6
+2005,30-34,3,20,"Veselin Topalov, Vladimir Kramnik, Michael Adams",32.8,30.6
+2005,35-39,4,10,"Viswanathan Anand, Vassily Ivanchuk, Evgeny Bareev",32.8,30.6
+2005,40 and over,5,25,"Garry Kasparov, Predrag Nikolic, Nigel D. Short",32.8,30.6
+2006,Under 20,0,4,"Teimour Radjabov, Sergey Karjakin, Hikaru Nakamura",31.27,32.1
+2006,20-24,1,23,"Levon Aronian, Ruslan Ponomariov, Etienne Bacrot",31.27,32.1
+2006,25-29,2,21,"Peter Leko, Alexander Morozevich, Vladimir Malakhov",31.27,32.1
+2006,30-34,3,20,"Veselin Topalov, Peter Svidler, Vladimir Kramnik",31.27,32.1
+2006,35-39,4,14,"Viswanathan Anand, Vassily Ivanchuk, Boris Gelfand",31.27,32.1
+2006,40 and over,5,18,"Garry Kasparov, Evgeny Bareev, Nigel D. Short",31.27,32.1
+2007,Under 20,0,2,"Magnus Carlsen, Sergey Karjakin",31.72,32.5
+2007,20-24,1,29,"Shakhriyar Mamedyarov, Teimour Radjabov, Ruslan Ponomariov",31.72,32.5
+2007,25-29,2,17,"Peter Leko, Levon Aronian, Krishnan Sasikiran",31.72,32.5
+2007,30-34,3,20,"Veselin Topalov, Vladimir Kramnik, Alexander Morozevich",31.72,32.5
+2007,35-39,4,14,"Viswanathan Anand, Vassily Ivanchuk, Michael Adams",31.72,32.5
+2007,40 and over,5,18,"Garry Kasparov, Nigel D Short, Anatoly Karpov",31.72,32.5
+2008,Under 20,0,4,"Magnus Carlsen, Sergey Karjakin, Hao Wang",30.75,32.1
+2008,20-24,1,21,"Shakhriyar Mamedyarov, Teimour Radjabov, Ivan Cheparinov",30.75,32.1
+2008,25-29,2,23,"Peter Leko, Levon Aronian, Dmitry Jakovenko",30.75,32.1
+2008,30-34,3,22,"Vladimir Kramnik, Veselin Topalov, Alexander Morozevich",30.75,32.1
+2008,35-39,4,17,"Viswanathan Anand, Alexei Shirov, Vassily Ivanchuk",30.75,32.1
+2008,40 and over,5,13,"Boris Gelfand, Ivan Sokolov, Evgeny Bareev",30.75,32.1
+2009,Under 20,0,4,"Magnus Carlsen, Sergey Karjakin, Maxime Vachier-Lagrave",30.26,30.8
+2009,20-24,1,27,"Teimour Radjabov, Yue Wang, Shakhriyar Mamedyarov",30.26,30.8
+2009,25-29,2,19,"Dmitry Jakovenko, Levon Aronian, Alexander Grischuk",30.26,30.8
+2009,30-34,3,24,"Veselin Topalov, Alexander Morozevich, Vladimir Kramnik",30.26,30.8
+2009,35-39,4,13,"Alexei Shirov, Gata Kamsky, Michael Adams",30.26,30.8
+2009,40 and over,5,13,"Viswanathan Anand, Vassily Ivanchuk, Boris Gelfand",30.26,30.8
+2010,Under 20,0,3,"Fabiano Caruana, Wesley So, Quang Liem Le",30.23,32.3
+2010,20-24,1,20,"Magnus Carlsen, Vugar Gashimov, Yue Wang",30.23,32.3
+2010,25-29,2,31,"Levon Aronian, Shakhriyar Mamedyarov, Ruslan Ponomariov",30.23,32.3
+2010,30-34,3,20,"Peter Svidler, Peter Leko, Alexander Morozevich",30.23,32.3
+2010,35-39,4,14,"Veselin Topalov, Vladimir Kramnik, Alexei Shirov",30.23,32.3
+2010,40 and over,5,12,"Viswanathan Anand, Boris Gelfand, Vassily Ivanchuk",30.23,32.3
+2011,Under 20,0,3,"Fabiano Caruana, Anish Giri, Wesley So",29.75,30.5
+2011,20-24,1,20,"Magnus Carlsen, Sergey Karjakin, Hikaru Nakamura",29.75,30.5
+2011,25-29,2,35,"Levon Aronian, Alexander Grischuk, Shakhriyar Mamedyarov",29.75,30.5
+2011,30-34,3,15,"Sergei Movsesian, Peter Leko, Vladimir Malakhov",29.75,30.5
+2011,35-39,4,15,"Vladimir Kramnik, Veselin Topalov, Peter Svidler",29.75,30.5
+2011,40 and over,5,12,"Viswanathan Anand, Vassily Ivanchuk, Boris Gelfand",29.75,30.5
+2012,Under 20,0,2,"Anish Giri, Wesley So",30.22,32.0
+2012,20-24,1,16,"Magnus Carlsen, Sergey Karjakin, Fabiano Caruana",30.22,32.0
+2012,25-29,2,40,"Teimour Radjabov, Vugar Gashimov, Alexander Grischuk",30.22,32.0
+2012,30-34,3,13,"Levon Aronian, Peter Leko, Alexander Moiseenko",30.22,32.0
+2012,35-39,4,16,"Vladimir Kramnik, Veselin Topalov, Alexander Morozevich",30.22,32.0
+2012,40 and over,5,13,"Viswanathan Anand, Vassily Ivanchuk, Boris Gelfand",30.22,32.0
+2013,Under 20,0,2,"Anish Giri, Yangyi Yu",31.18,29.8
+2013,20-24,1,16,"Magnus Carlsen, Fabiano Caruana, Sergey Karjakin",31.18,29.8
+2013,25-29,2,31,"Teimour Radjabov, Hikaru Nakamura, Shakhriyar Mamedyarov",31.18,29.8
+2013,30-34,3,19,"Levon Aronian, Alexander Grischuk, Peter Leko",31.18,29.8
+2013,35-39,4,17,"Vladimir Kramnik, Veselin Topalov, Alexander Morozevich",31.18,29.8
+2013,40 and over,5,15,"Viswanathan Anand, Vassily Ivanchuk, Boris Gelfand",31.18,29.8
+2014,Under 20,0,1,Richard Rapport,31.44,32.9
+2014,20-24,1,14,"Magnus Carlsen, Fabiano Caruana, Sergey Karjakin",31.44,32.9
+2014,25-29,2,35,"Hikaru Nakamura, Shakhriyar Mamedyarov, Nikita Vitiugov",31.44,32.9
+2014,30-34,3,19,"Levon Aronian, Alexander Grischuk, Leinier Dominguez Perez",31.44,32.9
+2014,35-39,4,17,"Vladimir Kramnik, Veselin Topalov, Peter Svidler",31.44,32.9
+2014,40 and over,5,14,"Boris Gelfand, Viswanathan Anand, Michael Adams",31.44,32.9
+2015,Under 20,0,3,"Richard Rapport, Yi Wei, Vladislav Artemiev",31.25,31.0
+2015,20-24,1,11,"Fabiano Caruana, Anish Giri, Wesley So",31.25,31.0
+2015,25-29,2,30,"Magnus Carlsen, Hikaru Nakamura, Sergey Karjakin",31.25,31.0
+2015,30-34,3,27,"Alexander Grischuk, Levon Aronian, Shakhriyar Mamedyarov",31.25,31.0
+2015,35-39,4,13,"Peter Svidler, Peter Leko, Alexander Morozevich",31.25,31.0
+2015,40 and over,5,16,"Veselin Topalov, Viswanathan Anand, Vladimir Kramnik",31.25,31.0
+2016,Under 20,0,3,"Yi Wei, Vladislav Artemiev, Jan-Krzysztof Duda",32.33,31.3
+2016,20-24,1,14,"Anish Giri, Fabiano Caruana, Wesley So",32.33,31.3
+2016,25-29,2,25,"Magnus Carlsen, Hikaru Nakamura, Maxime Vachier-Lagrave",32.33,31.3
+2016,30-34,3,25,"Levon Aronian, Pavel Eljanov, P. Harikrishna",32.33,31.3
+2016,35-39,4,11,"Peter Leko, Rustam Kasimdzhanov, Laurent Fressinet",32.33,31.3
+2016,40 and over,5,22,"Vladimir Kramnik, Viswanathan Anand, Veselin Topalov",32.33,31.3
+2017,Under 20,0,4,"Yi Wei, Jan-Krzysztof Duda, Jeffery Xiong",32.71,30.8
+2017,20-24,1,12,"Wesley So, Anish Giri, Yangyi Yu",32.71,30.8
+2017,25-29,2,22,"Magnus Carlsen, Fabiano Caruana, Maxime Vachier-Lagrave",32.71,30.8
+2017,30-34,3,29,"Hikaru Nakamura, Shakhriyar Mamedyarov, P. Harikrishna",32.71,30.8
+2017,35-39,4,10,"Levon Aronian, Vladimir Malakhov, Francisco Vallejo Pons",32.71,30.8
+2017,40 and over,5,23,"Vladimir Kramnik, Viswanathan Anand, Vassily Ivanchuk",32.71,30.8
+2018,Under 20,0,1,Yi Wei,33.4,31.8
+2018,20-24,1,11,"Yangyi Yu, Anish Giri, Jan-Krzysztof Duda",33.4,31.8
+2018,25-29,2,25,"Magnus Carlsen, Fabiano Caruana, Maxime Vachier-Lagrave",33.4,31.8
+2018,30-34,3,23,"Shakhriyar Mamedyarov, Hikaru Nakamura, David Navara",33.4,31.8
+2018,35-39,4,18,"Levon Aronian, Alexander Grischuk, Dmitry Jakovenko",33.4,31.8
+2018,40 and over,5,22,"Vladimir Kramnik, Peter Svidler, Viswanathan Anand",33.4,31.8
+2019,Under 20,0,2,"Parham Maghsoodloo, Jeffery Xiong",33.0,33.8
+2019,20-24,1,7,"Jan-Krzysztof Duda, Yi Wei, Richard Rapport",33.0,33.8
+2019,25-29,2,28,"Magnus Carlsen, Fabiano Caruana, Liren Ding",33.0,33.8
+2019,30-34,3,30,"Shakhriyar Mamedyarov, Teimour Radjabov, Hikaru Nakamura",33.0,33.8
+2019,35-39,4,14,"Alexander Grischuk, Levon Aronian, Dmitry Jakovenko",33.0,33.8
+2019,40 and over,5,19,"Vladimir Kramnik, Viswanathan Anand, Veselin Topalov",33.0,33.8
+2020,Under 20,0,2,"Alireza Firouzja, Andrey Esipenko",32.91,31.5
+2020,20-24,1,12,"Jan-Krzysztof Duda, Richard Rapport, Yi Wei",32.91,31.5
+2020,25-29,2,23,"Fabiano Caruana, Liren Ding, Anish Giri",32.91,31.5
+2020,30-34,3,26,"Magnus Carlsen, Ian Nepomniachtchi, Maxime Vachier-Lagrave",32.91,31.5
+2020,35-39,4,17,"Alexander Grischuk, Levon Aronian, Shakhriyar Mamedyarov",32.91,31.5
+2020,40 and over,5,20,"Viswanathan Anand, Vladimir Kramnik, Veselin Topalov",32.91,31.5
+2021,Under 20,0,2,"Alireza Firouzja, Andrey Esipenko",33.36,32.6
+2021,20-24,1,11,"Jan-Krzysztof Duda, Yi Wei, Jeffery Xiong",33.36,32.6
+2021,25-29,2,22,"Fabiano Caruana, Liren Ding, Wesley So",33.36,32.6
+2021,30-34,3,24,"Magnus Carlsen, Ian Nepomniachtchi, Maxime Vachier-Lagrave",33.36,32.6
+2021,35-39,4,24,"Levon Aronian, Alexander Grischuk, Shakhriyar Mamedyarov",33.36,32.6
+2021,40 and over,5,17,"Viswanathan Anand, Vladimir Kramnik, Veselin Topalov",33.36,32.6
+2022,Under 20,0,3,"Alireza Firouzja, Vincent Keymer, Nihal Sarin",33.19,31.6
+2022,20-24,1,14,"Jan-Krzysztof Duda, Yi Wei, Andrey Esipenko",33.19,31.6
+2022,25-29,2,20,"Wesley So, Anish Giri, Richard Rapport",33.19,31.6
+2022,30-34,3,19,"Magnus Carlsen, Liren Ding, Fabiano Caruana",33.19,31.6
+2022,35-39,4,26,"Shakhriyar Mamedyarov, Alexander Grischuk, Teimour Radjabov",33.19,31.6
+2022,40 and over,5,18,"Levon Aronian, Viswanathan Anand, Veselin Topalov",33.19,31.6
+2023,Under 20,0,6,"Gukesh D, Nodirbek Abdusattorov, Vincent Keymer",32.46,33.0
+2023,20-24,1,16,"Alireza Firouzja, Erigaisi Arjun, Yi Wei",32.46,33.0
+2023,25-29,2,19,"Anish Giri, Richard Rapport, Santosh Gujrathi Vidit",32.46,33.0
+2023,30-34,3,19,"Magnus Carlsen, Liren Ding, Ian Nepomniachtchi",32.46,33.0
+2023,35-39,4,19,"Hikaru Nakamura, Teimour Radjabov, Shakhriyar Mamedyarov",32.46,33.0
+2023,40 and over,5,21,"Viswanathan Anand, Alexander Grischuk, Leinier Dominguez Perez",32.46,33.0
+2024,Under 20,0,4,"Praggnanandhaa R, Gukesh D, Javokhir Sindarov",32.68,32.6
+2024,20-24,1,17,"Alireza Firouzja, Vincent Keymer, Parham Maghsoodloo",32.68,32.6
+2024,25-29,2,16,"Yi Wei, Jan-Krzysztof Duda, Richard Rapport",32.68,32.6
+2024,30-34,3,24,"Magnus Carlsen, Fabiano Caruana, Liren Ding",32.68,32.6
+2024,35-39,4,20,"Hikaru Nakamura, Shakhriyar Mamedyarov, Teimour Radjabov",32.68,32.6
+2024,40 and over,5,19,"Leinier Dominguez Perez, Viswanathan Anand, Alexander Grischuk",32.68,32.6
+2025,Under 20,0,3,"Gukesh D, Volodar Murzin, Leon Luke Mendonca",32.21,30.7
+2025,20-24,1,21,"Erigaisi Arjun, Nodirbek Abdusattorov, Alireza Firouzja",32.21,30.7
+2025,25-29,2,21,"Yi Wei, Jan-Krzysztof Duda, Chithambaram VR. Aravindh",32.21,30.7
+2025,30-34,3,15,"Fabiano Caruana, Wesley So, Quang Liem Le",32.21,30.7
+2025,35-39,4,19,"Magnus Carlsen, Hikaru Nakamura, Ian Nepomniachtchi",32.21,30.7
+2025,40 and over,5,21,"Viswanathan Anand, Levon Aronian, Leinier Dominguez Perez",32.21,30.7
+2026,Under 20,0,3,"Yagiz Kaan Erdogmus, Ediz Gurel, Abhimanyu Mishra",31.7,27.7
+2026,20-24,1,22,"Vincent Keymer, Erigaisi Arjun, Alireza Firouzja",31.7,27.7
+2026,25-29,2,23,"Yi Wei, Jan-Krzysztof Duda, Parham Maghsoodloo",31.7,27.7
+2026,30-34,3,16,"Fabiano Caruana, Anish Giri, Wesley So",31.7,27.7
+2026,35-39,4,16,"Magnus Carlsen, Hikaru Nakamura, Maxime Vachier-Lagrave",31.7,27.7
+2026,40 and over,5,20,"Viswanathan Anand, Leinier Dominguez Perez, Shakhriyar Mamedyarov",31.7,27.7

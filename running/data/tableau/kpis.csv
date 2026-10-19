@@ -1,0 +1,13 @@
+sex,metric,value,label,blurb
+Men,multiple,5.052631578947368,5x,as many sub-2:07 marathons a year in 2020-25 as in 2001-16
+Men,depth_gain,137.0,2:17,
+Men,rank_then,24.0,24th,where 2025's 100th-fastest time (2:06:36) would have ranked in 2015
+Men,time_100_2025,7596.0,2:06:36,
+Men,athletes,3.7,30 to 111,different athletes under 2:07: 2016 vs 2025
+Men,top_venue,84.0,Valencia,"No. 1 for elite marathons since 2020: 84, up from 14 before 2019"
+Women,multiple,5.945679012345678,6x,as many sub-2:24 marathons a year in 2020-25 as in 2001-16
+Women,depth_gain,258.0,4:18,
+Women,rank_then,13.0,13th,where 2025's 100th-fastest time (2:23:02) would have ranked in 2015
+Women,time_100_2025,8582.0,2:23:02,
+Women,athletes,5.7368421052631575,19 to 109,different athletes under 2:24: 2016 vs 2025
+Women,top_venue,58.0,Valencia,"No. 1 for elite marathons since 2020: 58, up from 3 before 2019"

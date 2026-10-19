@@ -1,0 +1,61 @@
+# text for each chapter, men's and women's versions -> data/tableau/text.csv
+from pathlib import Path
+
+import pandas as pd
+
+OUT = Path(__file__).resolve().parent.parent / "data" / "tableau" / "text.csv"
+
+T = {
+    ("Men", "empires"): ("Austria's golden age, and everyone catching up",
+                         "Each band is one nation's share of the podium places in a season. At the end of the 2000s Austria were "
+                         "close to unbeatable, with Gregor Schlierenzauer and Thomas Morgenstern winning week after week. It didn't "
+                         "last. Jumpers retired, other teams caught up and the lead moved around – Slovenia, Norway, Japan. By 2021 "
+                         "an Austrian on the podium was a rare sight, which makes the 2025 comeback even more of a surprise."),
+    ("Women", "empires"): ("Japan first, Slovenia now",
+                           "Each band is one nation's share of the podium places in a season. When the women's World Cup started, "
+                           "Japan and Sara Takanashi set the pace and led every season from 2013 to 2017. Since then it's moved "
+                           "around – Norway, Germany and Austria have all had a turn – and Slovenia have come out on top in four of "
+                           "the last five."),
+    ("Men", "dominance"): ("Some winters belong to one jumper",
+                           "Bars show the share of a season's events won by its best jumper. Adam Malysz in 2000/01, Gregor "
+                           "Schlierenzauer in 2008/09 and Peter Prevc in 2015/16 each won around half. The men's field has still always been "
+                           "fairly open though – the strip underneath shows 6 to 15 different winners every season."),
+    ("Women", "dominance"): ("From one-woman seasons to an open field",
+                             "Bars show the share of a season's events won by its best jumper. Sara Takanashi lost only three times "
+                             "in 2013/14, and Nika Prevc won fifteen events in 2024/25. Now look at the strip underneath: only a "
+                             "handful of different winners a season early on, eight to ten now."),
+    ("Men", "legends"): ("Most World Cup wins, 2001–2025",
+                         "Most of these empires were built around one jumper. Gregor Schlierenzauer won his first World Cup event at "
+                         "16 and led Austria for a decade; Stefan Kraft has carried them since."),
+    ("Women", "legends"): ("Most World Cup wins, 2012–2025",
+                           "Sara Takanashi has won more World Cup events than any ski jumper, man or woman – more than twice as many "
+                           "as the next best, Norway's Maren Lundby."),
+    ("Men", "age"): ("The podium is getting older",
+                     "In the early 2000s teenagers were regulars on the podium. Now the winners tend to be in their late twenties. "
+                     "And then there's Noriaki Kasai, who won in Ruka in November 2014 aged 42."),
+    ("Women", "age"): ("A young sport growing up",
+                       "The first women's podiums were full of teenagers – Takanashi was winning before she could drive. The sport "
+                       "has grown up since, and Eva Pinkelnig was still winning in her mid-thirties."),
+    ("Men", "home"): ("Home advantage? Mostly a myth",
+                      "For most nations a home crowd makes little difference, and Austria's and Poland's men actually do worse "
+                      "at home. Slovenia at Planica is the exception – their podium rate more than doubles."),
+    ("Women", "home"): ("Home advantage? Depends who you ask",
+                        "Norway's and Austria's women do a little better on home snow; Germany's, Japan's and Slovenia's do worse. "
+                        "No real pattern."),
+    ("Men", "flights"): ("Longest jump of each season (m)",
+                         "On the big ski-flying hills the longest jump sat around 250 m for about ten years, until Domen Prevc's "
+                         "world record at Planica in 2025."),
+    ("Women", "flights"): ("Longest jump of each season (m)",
+                           "Women weren't allowed on a World Cup ski-flying hill until March 2024. First time out they went almost "
+                           "80 m further than any woman had in a World Cup before."),
+    ("Men", "verdict"): ("SO, WHO RULES THE SKIES?",
+                         "Nobody for long. Men's empires form around one or two great jumpers and fade when those jumpers do, the "
+                         "winners are getting older, and jumping at home doesn't guarantee anything. And they keep going further."),
+    ("Women", "verdict"): ("SO, WHO RULES THE SKIES?",
+                           "The women's World Cup is still young and it's opening up quickly – from one jumper winning almost every "
+                           "week to eight or ten winners a season, and from normal hills to 230 m flights. Nobody owns it yet."),
+}
+
+rows = [{"competition": c, "chapter": ch, "title": t, "p1": p} for (c, ch), (t, p) in T.items()]
+pd.DataFrame(rows).to_csv(OUT, index=False)
+print("written", OUT, len(rows), "rows")

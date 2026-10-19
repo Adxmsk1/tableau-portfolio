@@ -1,0 +1,98 @@
+row,player,fed,nation,birth_year,first_year,age,rating
+97,Ilia Smirin,ISR,Other,1968.0,2002,34.0,2702
+96,Ruslan Ponomariov,UKR,Ukraine,1983.0,2002,19.0,2727
+95,Alexander Khalifman,RUS,Russia,1966.0,2003,37.0,2702
+94,Vladimir Akopian,ARM,Other,1971.0,2003,32.0,2703
+93,Judit Polgar,HUN,Other,1976.0,2003,27.0,2700
+92,Alexander Grischuk,RUS,Russia,1983.0,2003,20.0,2712
+91,Nigel D. Short,ENG,Other,1965.0,2004,39.0,2702
+90,Ivan Sokolov,NED,Other,1968.0,2004,36.0,2706
+89,Peter Svidler,RUS,Russia,1976.0,2004,28.0,2747
+88,Vladimir Malakhov,RUS,Russia,1980.0,2004,24.0,2700
+87,Alexey Dreev,RUS,Russia,1969.0,2005,36.0,2704
+86,Etienne Bacrot,FRA,Other,1983.0,2005,22.0,2715
+85,Levon Aronian,ARM,Other,1982.0,2006,24.0,2752
+84,Shakhriyar Mamedyarov,AZE,Other,1985.0,2006,21.0,2709
+83,Teimour Radjabov,AZE,Other,1987.0,2006,19.0,2700
+82,Krishnan Sasikiran,IND,India,1981.0,2007,26.0,2700
+81,David Navara,CZE,Other,1985.0,2007,22.0,2719
+80,Dmitry Jakovenko,RUS,Russia,1983.0,2008,25.0,2720
+79,Evgeny Alekseev,RUS,Russia,1985.0,2008,23.0,2711
+78,Ivan Cheparinov,BUL,Other,1986.0,2008,22.0,2713
+77,Magnus Carlsen,NOR,Other,1990.0,2008,18.0,2733
+76,Sergey Karjakin,UKR,Ukraine,1990.0,2008,18.0,2732
+75,Sergei Rublevsky,RUS,Russia,1974.0,2009,35.0,2702
+74,Sergei Movsesian,SVK,Other,1978.0,2009,31.0,2751
+73,Francisco Vallejo Pons,ESP,Other,1982.0,2009,27.0,2702
+72,Leinier Dominguez Perez,CUB,Other,1983.0,2009,26.0,2717
+71,Hua Ni,CHN,China,1983.0,2009,26.0,2709
+70,Xiangzhi Bu,CHN,China,1985.0,2009,24.0,2702
+69,Vugar Gashimov,AZE,Other,1986.0,2009,23.0,2723
+68,Yue Wang,CHN,China,1987.0,2009,22.0,2739
+67,Zoltan Almasi,HUN,Other,1976.0,2010,34.0,2710
+66,Rustam Kasimdzhanov,UZB,Other,1979.0,2010,31.0,2702
+65,Pavel Eljanov,UKR,Ukraine,1983.0,2010,27.0,2736
+64,Baadur Jobava,GEO,Other,1983.0,2010,27.0,2704
+63,Hikaru Nakamura,USA,USA,1987.0,2010,23.0,2708
+62,Evgeny Tomashevsky,RUS,Russia,1987.0,2010,23.0,2705
+61,Hao Wang,CHN,China,1989.0,2010,21.0,2715
+60,Maxime Vachier-Lagrave,FRA,Other,1990.0,2010,20.0,2730
+59,Laurent Fressinet,FRA,Other,1981.0,2011,30.0,2707
+58,Zahar Efimenko,UKR,Ukraine,1985.0,2011,26.0,2701
+57,Nikita Vitiugov,RUS,Russia,1987.0,2011,24.0,2709
+56,Radoslaw Wojtaszek,POL,Other,1987.0,2011,24.0,2726
+55,Ian Nepomniachtchi,RUS,Russia,1990.0,2011,21.0,2733
+54,Fabiano Caruana,ITA,Other,1992.0,2011,19.0,2721
+53,Emil Sutovsky,ISR,Other,1977.0,2012,35.0,2703
+52,Alexander Moiseenko,UKR,Ukraine,1980.0,2012,32.0,2706
+51,Arkadij Naiditsch,GER,Germany,1985.0,2012,27.0,2702
+50,Alexander Riazantsev,RUS,Russia,1985.0,2012,27.0,2710
+49,Viktor Laznicka,CZE,Other,1988.0,2012,24.0,2704
+48,Quang Liem Le,VIE,Other,1991.0,2012,21.0,2714
+47,Anish Giri,NED,Other,1994.0,2012,18.0,2714
+46,Lazaro Bruzon Batista,CUB,Other,1982.0,2013,31.0,2701
+45,Ferenc Berkes,HUN,Other,1985.0,2013,28.0,2702
+44,Alexander Areshchenko,UKR,Ukraine,1986.0,2013,27.0,2720
+43,Andrei Volokitin,UKR,Ukraine,1986.0,2013,27.0,2722
+42,Dmitry Andreikin,RUS,Russia,1990.0,2013,23.0,2727
+41,Liren Ding,CHN,China,1992.0,2013,21.0,2709
+40,Anton Korobov,UKR,Ukraine,1985.0,2014,29.0,2723
+39,P. Harikrishna,IND,India,1986.0,2014,28.0,2706
+38,Yuriy Kryvoruchko,UKR,Ukraine,1986.0,2014,28.0,2704
+37,Maxim Matlakov,RUS,Russia,1991.0,2014,23.0,2700
+36,Wesley So,PHI,Other,1993.0,2014,21.0,2719
+35,Igor Lysyj,RUS,Russia,1987.0,2015,28.0,2700
+34,Chao b Li,CHN,China,1989.0,2015,26.0,2728
+33,Yangyi Yu,CHN,China,1994.0,2015,21.0,2724
+32,Richard Rapport,HUN,Other,1996.0,2015,19.0,2716
+31,Gabriel Sargissian,ARM,Other,1983.0,2016,33.0,2702
+30,Yi Wei,CHN,China,1999.0,2016,17.0,2706
+29,Ernesto Inarkiev,RUS,Russia,1985.0,2017,32.0,2723
+28,Rauf Mamedov,AZE,Other,1988.0,2018,30.0,2709
+27,Santosh Gujrathi Vidit,IND,India,1994.0,2018,24.0,2718
+26,Vladimir Fedoseev,RUS,Russia,1995.0,2018,23.0,2724
+25,Jan-Krzysztof Duda,POL,Other,1998.0,2018,20.0,2724
+24,Bassem Amin,EGY,Other,1988.0,2019,31.0,2712
+23,Samuel Shankland,USA,USA,1991.0,2019,28.0,2725
+22,Daniil Dubov,RUS,Russia,1996.0,2019,23.0,2703
+21,Vladislav Artemiev,RUS,Russia,1998.0,2019,21.0,2709
+20,Kirill Alekseenko,RUS,Russia,1997.0,2020,23.0,2704
+19,Jeffery Xiong,USA,USA,2000.0,2020,20.0,2712
+18,Alireza Firouzja,FID,Other,2003.0,2020,17.0,2723
+17,Jorden Van Foreest,NED,Other,1999.0,2022,23.0,2702
+16,Parham Maghsoodloo,IRI,Other,2000.0,2022,22.0,2701
+15,Andrey Esipenko,RUS,Russia,2002.0,2022,20.0,2714
+14,Sanan Sjugirov,RUS,Russia,1993.0,2023,30.0,2712
+13,Ray Robson,USA,USA,1994.0,2023,29.0,2702
+12,Bogdan-Daniel Deac,ROU,Other,2001.0,2023,22.0,2700
+11,Erigaisi Arjun,IND,India,2003.0,2023,20.0,2722
+10,Hans Moke Niemann,USA,USA,2003.0,2023,20.0,2706
+9,Nodirbek Abdusattorov,UZB,Other,2004.0,2023,19.0,2713
+8,Gukesh D,IND,India,2006.0,2023,17.0,2725
+7,Vincent Keymer,GER,Germany,2004.0,2024,20.0,2743
+6,Praggnanandhaa R,IND,India,2005.0,2024,19.0,2743
+5,Javokhir Sindarov,UZB,Other,2005.0,2024,19.0,2701
+4,Chithambaram VR. Aravindh,IND,India,1999.0,2025,26.0,2726
+3,M. Amin Tabatabaei,IRI,Other,2001.0,2026,25.0,2700
+2,Awonder Liang,USA,USA,2003.0,2026,23.0,2713
+1,Nihal Sarin,IND,India,2004.0,2026,22.0,2716

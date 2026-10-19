@@ -1,0 +1,101 @@
+event,sex,season,elite_performances,elite_athletes,era,fastest_runner,fastest_time,fastest_venue,pre_avg,vs_pre
+Half marathon,Men,2001,1,1,Before super shoes,Fabián Roncero,0:59:52,Berlin,16.8125,0.05947955390334572
+Half marathon,Men,2002,2,2,Before super shoes,Patrick Mutuku Ivuti,0:59:45,Udine,16.8125,0.11895910780669144
+Half marathon,Men,2003,0,0,Before super shoes,Zackayo Ngatho,1:00:21,Marugame,16.8125,0.0
+Half marathon,Men,2004,0,0,Before super shoes,Robert Kipkoech Cheruiyot,1:00:11,Rotterdam,16.8125,0.0
+Half marathon,Men,2005,3,2,Before super shoes,Samuel Kamau Wanjiru,0:59:16,Rotterdam,16.8125,0.17843866171003717
+Half marathon,Men,2006,5,5,Before super shoes,Haile Gebrselassie,0:58:55,"Tempe, AZ",16.8125,0.29739776951672864
+Half marathon,Men,2007,23,13,Before super shoes,Samuel Kamau Wanjiru,0:58:33,The Hague,16.8125,1.3680297397769516
+Half marathon,Men,2008,20,18,Before super shoes,Haile Gebrselassie,0:59:15,Lisboa,16.8125,1.1895910780669146
+Half marathon,Men,2009,29,22,Before super shoes,Patrick Makau Musyoki,0:58:52,Ras Al Khaimah,16.8125,1.724907063197026
+Half marathon,Men,2010,25,21,Before super shoes,Zersenay Tadese,0:58:23,Lisboa,16.8125,1.486988847583643
+Half marathon,Men,2011,20,18,Before super shoes,Zersenay Tadese,0:58:31,Lisboa,16.8125,1.1895910780669146
+Half marathon,Men,2012,24,21,Before super shoes,Atsedu Tsegay,0:58:47,Praha,16.8125,1.4275092936802973
+Half marathon,Men,2013,16,11,Before super shoes,Geoffrey Kamworor,0:58:54,Ras Al Khaimah,16.8125,0.9516728624535316
+Half marathon,Men,2014,36,27,Before super shoes,Abraham Cheroben,0:58:48,Valencia,16.8125,2.141263940520446
+Half marathon,Men,2015,32,27,Before super shoes,Abraham Cheroben,0:59:10,Valencia,16.8125,1.903345724907063
+Half marathon,Men,2016,33,24,Before super shoes,James Wangari,0:59:07,København,16.8125,1.962825278810409
+Half marathon,Men,2017,31,29,Arrival (2017-19),Abraham Cheroben,0:58:40,København,16.8125,1.8438661710037174
+Half marathon,Men,2018,44,33,Arrival (2017-19),Jemal Mekonen,0:58:33,Valencia,16.8125,2.617100371747212
+Half marathon,Men,2019,53,40,Arrival (2017-19),Geoffrey Kamworor,0:58:01,København,16.8125,3.1524163568773234
+Half marathon,Men,2020,47,33,Super-shoe era,Kibiwott Kandie,0:57:32,Valencia,16.8125,2.795539033457249
+Half marathon,Men,2021,48,38,Super-shoe era,Jacob Kiplimo,0:57:31,Lisboa,16.8125,2.8550185873605947
+Half marathon,Men,2022,67,51,Super-shoe era,Jacob Kiplimo,0:57:56,Ras Al Khaimah,16.8125,3.9851301115241635
+Half marathon,Men,2023,76,56,Super-shoe era,Kibiwott Kandie,0:57:40,Valencia,16.8125,4.520446096654275
+Half marathon,Men,2024,50,39,Super-shoe era,Yomif Kejelcha,0:57:30,Valencia,16.8125,2.973977695167286
+Half marathon,Men,2025,69,51,Super-shoe era,Jacob Kiplimo,0:56:42,Barcelona,16.8125,4.104089219330855
+Half marathon,Women,2001,1,1,Before super shoes,Paula Radcliffe,1:06:47,Bristol,1.8125,0.5517241379310345
+Half marathon,Women,2002,0,0,Before super shoes,Constantina Dita-Tomescu,1:08:10,Turnu-Severein,1.8125,0.0
+Half marathon,Women,2003,0,0,Before super shoes,Margaret Okayo,1:07:23,Udine,1.8125,0.0
+Half marathon,Women,2004,0,0,Before super shoes,Mizuki Noguchi,1:07:47,Miyazaki,1.8125,0.0
+Half marathon,Women,2005,0,0,Before super shoes,Deena Kastor,1:07:53,"Philadelphia, PA",1.8125,0.0
+Half marathon,Women,2006,0,0,Before super shoes,Edith Masai,1:07:16,Berlin,1.8125,0.0
+Half marathon,Women,2007,2,2,Before super shoes,Lornah Kiplagat,1:06:25,Udine,1.8125,1.103448275862069
+Half marathon,Women,2008,0,0,Before super shoes,Philes Ongori,1:07:57,Marugame,1.8125,0.0
+Half marathon,Women,2009,2,1,Before super shoes,Mary Jepkosgei Keitany,1:06:36,Birmingham,1.8125,1.103448275862069
+Half marathon,Women,2010,0,0,Before super shoes,Elvan Abeylegesse,1:07:07,Ras Al Khaimah,1.8125,0.0
+Half marathon,Women,2011,1,1,Before super shoes,Mary Jepkosgei Keitany,1:05:50,Ras Al Khaimah,1.8125,0.5517241379310345
+Half marathon,Women,2012,1,1,Before super shoes,Mary Jepkosgei Keitany,1:06:49,Ras Al Khaimah,1.8125,0.5517241379310345
+Half marathon,Women,2013,5,5,Before super shoes,Lucy Kabuu Wangui,1:06:09,Ras Al Khaimah,1.8125,2.7586206896551726
+Half marathon,Women,2014,2,2,Before super shoes,Florence Kiplagat,1:05:12,Barcelona,1.8125,1.103448275862069
+Half marathon,Women,2015,5,4,Before super shoes,Florence Kiplagat,1:05:09,Barcelona,1.8125,2.7586206896551726
+Half marathon,Women,2016,10,9,Before super shoes,Violah Jepchumba,1:05:51,Praha,1.8125,5.517241379310345
+Half marathon,Women,2017,16,13,Arrival (2017-19),Joyciline Jepkosgei,1:04:51,Valencia,1.8125,8.827586206896552
+Half marathon,Women,2018,28,20,Arrival (2017-19),Fancy Chemutai,1:04:52,Ras Al Khaimah,1.8125,15.448275862068966
+Half marathon,Women,2019,33,25,Arrival (2017-19),Brigid Kosgei,1:05:28,Manama,1.8125,18.20689655172414
+Half marathon,Women,2020,28,23,Super-shoe era,Ababel Yeshaneh,1:04:31,Ras Al Khaimah,1.8125,15.448275862068966
+Half marathon,Women,2021,23,21,Super-shoe era,Letesenbet Gidey,1:02:52,Valencia,1.8125,12.689655172413794
+Half marathon,Women,2022,33,26,Super-shoe era,Girmawit Gebrzihair,1:04:14,Ras Al Khaimah,1.8125,18.20689655172414
+Half marathon,Women,2023,38,31,Super-shoe era,Irine Jepchumba Kimais,1:04:37,Barcelona,1.8125,20.96551724137931
+Half marathon,Women,2024,40,34,Super-shoe era,Agnes Jebet Ngetich,1:03:04,Valencia,1.8125,22.06896551724138
+Half marathon,Women,2025,38,29,Super-shoe era,Agnes Jebet Ngetich,1:03:08,Valencia,1.8125,20.96551724137931
+Marathon,Men,2001,1,1,Before super shoes,Josphat Kiprono,2:06:50,Rotterdam,20.1875,0.04953560371517028
+Marathon,Men,2002,12,9,Before super shoes,Khalid Khannouchi,2:05:38,London,20.1875,0.5944272445820433
+Marathon,Men,2003,10,10,Before super shoes,Paul Tergat,2:04:55,Berlin,20.1875,0.4953560371517028
+Marathon,Men,2004,7,5,Before super shoes,Felix Limo,2:06:14,Rotterdam,20.1875,0.34674922600619196
+Marathon,Men,2005,1,1,Before super shoes,Haile Gebrselassie,2:06:20,Amsterdam,20.1875,0.04953560371517028
+Marathon,Men,2006,9,8,Before super shoes,Haile Gebrselassie,2:05:56,Berlin,20.1875,0.4458204334365325
+Marathon,Men,2007,6,6,Before super shoes,Haile Gebrselassie,2:04:26,Berlin,20.1875,0.29721362229102166
+Marathon,Men,2008,16,13,Before super shoes,Haile Gebrselassie,2:03:59,Berlin,20.1875,0.7925696594427245
+Marathon,Men,2009,24,19,Before super shoes,Duncan Kibet,2:04:27,Rotterdam,20.1875,1.1888544891640866
+Marathon,Men,2010,23,19,Before super shoes,Patrick Makau Musyoki,2:04:48,Rotterdam,20.1875,1.1393188854489165
+Marathon,Men,2011,29,25,Before super shoes,Patrick Makau Musyoki,2:03:38,Berlin,20.1875,1.436532507739938
+Marathon,Men,2012,51,43,Before super shoes,Geoffrey Mutai,2:04:15,Berlin,20.1875,2.526315789473684
+Marathon,Men,2013,34,29,Before super shoes,Wilson Kipsang Kiprotich,2:03:23,Berlin,20.1875,1.6842105263157894
+Marathon,Men,2014,37,31,Before super shoes,Dennis Kimetto,2:02:57,Berlin,20.1875,1.8328173374613004
+Marathon,Men,2015,29,26,Before super shoes,Eliud Kipchoge,2:04:00,Berlin,20.1875,1.436532507739938
+Marathon,Men,2016,34,30,Before super shoes,Kenenisa Bekele,2:03:03,Berlin,20.1875,1.6842105263157894
+Marathon,Men,2017,40,34,Arrival (2017-19),Eliud Kipchoge,2:03:32,Berlin,20.1875,1.9814241486068112
+Marathon,Men,2018,61,46,Arrival (2017-19),Eliud Kipchoge,2:01:39,Berlin,20.1875,3.021671826625387
+Marathon,Men,2019,84,71,Arrival (2017-19),Kenenisa Bekele,2:01:41,Berlin,20.1875,4.1609907120743035
+Marathon,Men,2020,48,45,Super-shoe era,Evans Chebet,2:03:00,Valencia,20.1875,2.3777089783281733
+Marathon,Men,2021,85,76,Super-shoe era,Bashir Abdi,2:03:36,Rotterdam,20.1875,4.2105263157894735
+Marathon,Men,2022,103,83,Super-shoe era,Eliud Kipchoge,2:01:09,Berlin,20.1875,5.102167182662539
+Marathon,Men,2023,125,105,Super-shoe era,Kelvin Kiptum,2:00:35,Chicago,20.1875,6.191950464396285
+Marathon,Men,2024,123,105,Super-shoe era,Sabastian Kimaru Sawe,2:02:05,Valencia,20.1875,6.0928792569659445
+Marathon,Men,2025,128,111,Super-shoe era,Sabastian Kimaru Sawe,2:02:16,Berlin,20.1875,6.340557275541796
+Marathon,Women,2001,5,5,Before super shoes,Catherine Ndereba,2:18:47,Chicago,16.875,0.2962962962962963
+Marathon,Women,2002,18,16,Before super shoes,Paula Radcliffe,2:17:18,Chicago,16.875,1.0666666666666667
+Marathon,Women,2003,17,15,Before super shoes,Paula Radcliffe,2:15:25,London,16.875,1.0074074074074073
+Marathon,Women,2004,6,6,Before super shoes,Yoko Shibui,2:19:41,Berlin,16.875,0.35555555555555557
+Marathon,Women,2005,14,10,Before super shoes,Paula Radcliffe,2:17:42,London,16.875,0.8296296296296296
+Marathon,Women,2006,14,12,Before super shoes,Deena Kastor,2:19:36,London,16.875,0.8296296296296296
+Marathon,Women,2007,8,7,Before super shoes,Chunxiu Zhou,2:20:38,London,16.875,0.4740740740740741
+Marathon,Women,2008,9,8,Before super shoes,Irina Mikitenko,2:19:19,Berlin,16.875,0.5333333333333333
+Marathon,Women,2009,3,3,Before super shoes,Irina Mikitenko,2:22:11,London,16.875,0.17777777777777778
+Marathon,Women,2010,11,10,Before super shoes,Atsede Bayisa,2:22:04,Paris,16.875,0.6518518518518519
+Marathon,Women,2011,22,20,Before super shoes,Mary Jepkosgei Keitany,2:19:19,London,16.875,1.3037037037037038
+Marathon,Women,2012,43,31,Before super shoes,Mary Jepkosgei Keitany,2:18:37,London,16.875,2.5481481481481483
+Marathon,Women,2013,26,22,Before super shoes,Rita Jeptoo Sitienei,2:19:57,Chicago,16.875,1.5407407407407407
+Marathon,Women,2014,18,15,Before super shoes,Tirfi Tsegaye,2:20:18,Berlin,16.875,1.0666666666666667
+Marathon,Women,2015,31,25,Before super shoes,Gladys Cherono,2:19:25,Berlin,16.875,1.837037037037037
+Marathon,Women,2016,25,19,Before super shoes,Tirfi Tsegaye,2:19:41,Dubai,16.875,1.4814814814814814
+Marathon,Women,2017,36,30,Arrival (2017-19),Mary Jepkosgei Keitany,2:17:01,London,16.875,2.1333333333333333
+Marathon,Women,2018,64,49,Arrival (2017-19),Gladys Cherono,2:18:11,Berlin,16.875,3.7925925925925927
+Marathon,Women,2019,79,61,Arrival (2017-19),Brigid Kosgei,2:14:04,Chicago,16.875,4.681481481481481
+Marathon,Women,2020,42,39,Super-shoe era,Peres Jepchirchir,2:17:16,Valencia,16.875,2.488888888888889
+Marathon,Women,2021,46,40,Super-shoe era,Joyciline Jepkosgei,2:17:43,London,16.875,2.725925925925926
+Marathon,Women,2022,117,91,Super-shoe era,Ruth Chepngetich,2:14:18,Chicago,16.875,6.933333333333334
+Marathon,Women,2023,120,92,Super-shoe era,Tigst Assefa,2:11:53,Berlin,16.875,7.111111111111111
+Marathon,Women,2024,139,109,Super-shoe era,Ruth Chepngetich,2:09:56,Chicago,16.875,8.237037037037037
+Marathon,Women,2025,138,109,Super-shoe era,Joyciline Jepkosgei,2:14:00,Valencia,16.875,8.177777777777777

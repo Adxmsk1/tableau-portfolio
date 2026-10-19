@@ -1,0 +1,12 @@
+x,player,country,years,months,days,age,year,age_label,surname,held_until,held_for,label_name,label_age
+1950.0,David Bronstein,USSR,26,0,0,26.0,1950,26,Bronstein,1952,2,Bronstein,26
+1952.0,Tigran Petrosian,USSR,23,0,0,23.0,1952,23,Petrosian,1955,3,,
+1955.0,Boris Spassky,USSR,18,0,0,18.0,1955,18,Spassky,1958,3,,
+1958.0,Bobby Fischer,USA,15,6,1,15.502737850787133,1958,15y 6m,Fischer,1991,33,                 Fischer,               15y 6m
+1991.0,Judit Polgar,Hungary,15,4,28,15.409993155373034,1991,15y 4m,Polgar,1994,3,Polgar,15y 4m
+1994.0,Peter Leko,Hungary,14,4,22,14.39356605065024,1994,14y 4m,Leko,1997,3,,
+1997.0,Etienne Bacrot,France,14,2,0,14.166666666666666,1997,14y 2m,Bacrot,1997,0,,
+1997.9,Ruslan Ponomariov,Ukraine,14,0,17,14.046543463381246,1997,14y 0m,Ponomariov,1999,2,,
+1999.0,Bu Xiangzhi,China,13,10,13,13.868925393566052,1999,13y 10m,Bu,2002,3,,
+2002.0,Sergey Karjakin,Ukraine,12,7,0,12.583333333333334,2002,12y 7m,Karjakin,2021,19,                   Karjakin,               12y 7m
+2021.0,Abhimanyu Mishra,USA,12,4,25,12.401779603011637,2021,12y 4m,Mishra,2026,5,Mishra,12y 4m

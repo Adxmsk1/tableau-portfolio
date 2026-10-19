@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+
+# raw downloads / scrapes - the scripts fetch these again
+*/data/raw/
+chess/data/processed/lists.parquet
+
+# tableau autosave bits
+*.twbr
+~*

@@ -1,0 +1,93 @@
+# chapter text for the running dashboard, a men's and a women's version of each.
+# numbers checked against data/processed
+from pathlib import Path
+
+import pandas as pd
+
+OUT = Path(__file__).resolve().parent.parent / "data" / "tableau" / "text.csv"
+
+SHOES_RULE = "When World Athletics stepped in to regulate the shoes, it set the limits high enough to keep them legal."
+COURSES = "So part of the speed-up is simply runners choosing faster courses."
+TIMING = "Courses and nations explain part of the change. The timing - the same years, across distances - points firmly at the shoes."
+
+T = {
+    ("Men", "shoes"): ("Five times as many fast marathons",
+                       "Each bar counts the men's marathons run in under 2:07 that year.",
+                       "For fifteen years only a select few broke 2:07 - around twenty runs a season. Then the first carbon-plated "
+                       "'super shoes' went on sale in 2017 and the bars took off, even in 2020, when the pandemic wiped out most of "
+                       "the big-city races.",
+                       SHOES_RULE),
+    ("Women", "shoes"): ("Six times as many fast marathons",
+                         "Each bar counts the women's marathons run in under 2:24 that year.",
+                         "Before 2017, sub-2:24 was rare air: fewer than twenty runs in a typical year. The super-shoe era changed "
+                         "that even faster than in the men's race. Since 2022 there have been more than a hundred a year.",
+                         SHOES_RULE),
+    ("Men", "depth"): ("Faster all the way down the list",
+                       "Records get the attention, but look further down. The lines show how much quicker the 10th and 100th "
+                       "fastest men's marathons of each year were than in 2001.",
+                       "A first wave came with big-city races and pacemakers around 2007-12, then progress stalled. After 2017 it "
+                       "picked up again and went deep into the field: 2025's 100th-fastest time would have ranked 24th in 2015.",
+                       ""),
+    ("Women", "depth"): ("Women's times fell even further",
+                         "The lines show how much quicker the 10th and 100th fastest women's marathons of each year were than in 2001.",
+                         "The women's 10th-fastest time actually got slower between 2012 and 2016. Then the shoes arrived. Since 2016 "
+                         "the 100th-fastest time has dropped by more than four and a half minutes, and 2025's 100th-fastest would "
+                         "have ranked 13th in 2015.",
+                         ""),
+    ("Men", "courses"): ("Where: the Valencia effect",
+                         "Bubbles show where the men's elite marathons were run each year. Bigger bubble, more of them.",
+                         "Valencia hardly featured before 2019. Since 2020 it has staged more sub-2:07 runs than anywhere else: a flat "
+                         "course, cool December weather, and pacemakers and prize money built around records.",
+                         COURSES),
+    ("Women", "courses"): ("Where: Valencia takes over from London",
+                           "Bubbles show where the women's elite marathons were run each year. Bigger bubble, more of them.",
+                           "London was the women's fast course of the 2000s and 2010s. Since 2020 Valencia has taken over, with Berlin "
+                           "and London close behind and Tokyo now a regular stop for fast women's times.",
+                           COURSES),
+    ("Men", "runners"): ("Who: Kenya's grip loosens",
+                         "Each bar splits an era's elite men's marathons by the runner's nation.",
+                         "Before 2017 nearly two in every three were run by Kenyans. Ethiopia has since drawn level, and more "
+                         "fast times now come from everywhere else - Japan's deep domestic marathon scene, Europe, the USA.",
+                         ""),
+    ("Women", "runners"): ("Who: Ethiopia leads the way",
+                           "Each bar splits an era's elite women's marathons by the runner's nation.",
+                           "Ethiopian women have run the biggest share in every era, with Kenya second. Japan's share was larger in "
+                           "the 2000s, the era of Olympic champion Mizuki Noguchi, and the rest of the world is catching up again.",
+                           ""),
+    ("Men", "newfaces"): ("A door that opened",
+                          "The area shows how many men broke 2:07 for the first time each year.",
+                          "Before the shoes, around nine new names a year joined the club. Over the last five years it's been closer to "
+                          "forty - athletes who ten years earlier might never have run a time anyone noticed.",
+                          ""),
+    ("Women", "newfaces"): ("A door that opened",
+                            "The area shows how many women broke 2:24 for the first time each year.",
+                            "Before 2017 the club gained about seven new members a year. Since 2022 it's been more than thirty "
+                            "a year. That's a lot of new names.",
+                            ""),
+    ("Men", "proof"): ("The same jump in the half marathon",
+                       "If the shoes are the main driver, the effect should show up over other distances too. Each line compares a "
+                       "year's elite runs with that event's 2001-16 average (half marathon: under 60:00).",
+                       "Men's elite half marathons were already growing in the late 2000s, but both events take off again after 2017. "
+                       "Since 2020 there have been about three and a half times as many elite half marathons as the old average, "
+                       "and five times as many marathons.",
+                       TIMING),
+    ("Women", "proof"): ("The same jump, only bigger",
+                         "If the shoes are the main driver, the effect should show up over other distances too. Each line compares a "
+                         "year's elite runs with that event's 2001-16 average (half marathon: under 67:00).",
+                         "Sub-67 half marathons were almost unheard of before 2017 - around two a year. Now there are more than "
+                         "thirty a year, an even steeper climb than in the marathon.",
+                         TIMING),
+    ("Men", "verdict"): ("AT THE FINISH",
+                         "The shoes made the best runners quicker, but the bigger change is how many good runners they turned into "
+                         "world-class ones. Faster courses and a wider pool of countries helped too. A 2:06 men's marathon would have "
+                         "ranked 11th in the world in 2015. In 2025 it ranked 64th.", "", ""),
+    ("Women", "verdict"): ("AT THE FINISH",
+                           "The shoes made the best runners quicker, but the bigger change is how many good runners they turned into "
+                           "world-class ones. Faster courses and a wider pool of countries helped too. A 2:20 women's marathon would "
+                           "have ranked 3rd in the world in 2015. In 2025 it ranked 31st.", "", ""),
+}
+
+# p3 gets glued onto p2 - an empty field leaves a gap in the text sheet
+rows = [{"sex": s, "chapter": c, "title": t, "p1": a, "p2": " ".join(x for x in (b, d) if x)} for (s, c), (t, a, b, d) in T.items()]
+pd.DataFrame(rows).to_csv(OUT, index=False)
+print("written", OUT, len(rows), "rows")

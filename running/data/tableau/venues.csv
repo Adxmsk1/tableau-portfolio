@@ -1,0 +1,401 @@
+sex,season,venue,event,elite_performances,fastest_runner,fastest_time,season_total,share_of_season
+Men,2001,Valencia,,0.0,,,1,0.0
+Men,2001,Amsterdam,,0.0,,,1,0.0
+Men,2001,London,,0.0,,,1,0.0
+Men,2001,Berlin,,0.0,,,1,0.0
+Men,2001,Dubai,,0.0,,,1,0.0
+Men,2001,Tokyo,,0.0,,,1,0.0
+Men,2001,Rotterdam,Marathon,1.0,Josphat Kiprono,2:06:50,1,1.0
+Men,2001,Chicago,,0.0,,,1,0.0
+Men,2002,Valencia,,0.0,,,12,0.0
+Men,2002,Amsterdam,,0.0,,,12,0.0
+Men,2002,London,Marathon,4.0,Khalid Khannouchi,2:05:38,12,0.3333333333333333
+Men,2002,Berlin,Marathon,3.0,Raymond Kipkoech Chemwelo,2:06:47,12,0.25
+Men,2002,Dubai,,0.0,,,12,0.0
+Men,2002,Tokyo,,0.0,,,12,0.0
+Men,2002,Rotterdam,,0.0,,,12,0.0
+Men,2002,Chicago,Marathon,5.0,Khalid Khannouchi,2:05:56,12,0.4166666666666667
+Men,2003,Valencia,,0.0,,,10,0.0
+Men,2003,Amsterdam,Marathon,2.0,William Kipsang,2:06:39,10,0.2
+Men,2003,London,,0.0,,,10,0.0
+Men,2003,Berlin,Marathon,3.0,Paul Tergat,2:04:55,10,0.3
+Men,2003,Dubai,,0.0,,,10,0.0
+Men,2003,Tokyo,,0.0,,,10,0.0
+Men,2003,Rotterdam,,0.0,,,10,0.0
+Men,2003,Chicago,Marathon,1.0,Evans Rutto,2:05:50,10,0.1
+Men,2004,Valencia,,0.0,,,7,0.0
+Men,2004,Amsterdam,Marathon,1.0,Robert Cheboror,2:06:23,7,0.14285714285714285
+Men,2004,London,Marathon,2.0,Evans Rutto,2:06:18,7,0.2857142857142857
+Men,2004,Berlin,Marathon,2.0,Felix Limo,2:06:44,7,0.2857142857142857
+Men,2004,Dubai,,0.0,,,7,0.0
+Men,2004,Tokyo,,0.0,,,7,0.0
+Men,2004,Rotterdam,Marathon,1.0,Felix Limo,2:06:14,7,0.14285714285714285
+Men,2004,Chicago,Marathon,1.0,Evans Rutto,2:06:16,7,0.14285714285714285
+Men,2005,Valencia,,0.0,,,1,0.0
+Men,2005,Amsterdam,Marathon,1.0,Haile Gebrselassie,2:06:20,1,1.0
+Men,2005,London,,0.0,,,1,0.0
+Men,2005,Berlin,,0.0,,,1,0.0
+Men,2005,Dubai,,0.0,,,1,0.0
+Men,2005,Tokyo,,0.0,,,1,0.0
+Men,2005,Rotterdam,,0.0,,,1,0.0
+Men,2005,Chicago,,0.0,,,1,0.0
+Men,2006,Valencia,,0.0,,,9,0.0
+Men,2006,Amsterdam,,0.0,,,9,0.0
+Men,2006,London,Marathon,3.0,Felix Limo,2:06:39,9,0.3333333333333333
+Men,2006,Berlin,Marathon,1.0,Haile Gebrselassie,2:05:56,9,0.1111111111111111
+Men,2006,Dubai,,0.0,,,9,0.0
+Men,2006,Tokyo,,0.0,,,9,0.0
+Men,2006,Rotterdam,Marathon,3.0,Sammy Kipchoge Korir,2:06:38,9,0.3333333333333333
+Men,2006,Chicago,,0.0,,,9,0.0
+Men,2007,Valencia,,0.0,,,6,0.0
+Men,2007,Amsterdam,Marathon,2.0,Emmanuel Mutai,2:06:29,6,0.3333333333333333
+Men,2007,London,,0.0,,,6,0.0
+Men,2007,Berlin,Marathon,2.0,Haile Gebrselassie,2:04:26,6,0.3333333333333333
+Men,2007,Dubai,,0.0,,,6,0.0
+Men,2007,Tokyo,,0.0,,,6,0.0
+Men,2007,Rotterdam,,0.0,,,6,0.0
+Men,2007,Chicago,,0.0,,,6,0.0
+Men,2008,Valencia,,0.0,,,16,0.0
+Men,2008,Amsterdam,,0.0,,,16,0.0
+Men,2008,London,Marathon,6.0,Martin Kiptolo Lel,2:05:15,16,0.375
+Men,2008,Berlin,Marathon,2.0,Haile Gebrselassie,2:03:59,16,0.125
+Men,2008,Dubai,Marathon,1.0,Haile Gebrselassie,2:04:53,16,0.0625
+Men,2008,Tokyo,,0.0,,,16,0.0
+Men,2008,Rotterdam,Marathon,2.0,William Kipsang,2:05:49,16,0.125
+Men,2008,Chicago,Marathon,1.0,Evans Kiprop Cheruiyot,2:06:25,16,0.0625
+Men,2009,Valencia,,0.0,,,24,0.0
+Men,2009,Amsterdam,Marathon,2.0,Gilbert Yegon,2:06:18,24,0.08333333333333333
+Men,2009,London,Marathon,4.0,Samuel Kamau Wanjiru,2:05:10,24,0.16666666666666666
+Men,2009,Berlin,Marathon,1.0,Haile Gebrselassie,2:06:08,24,0.041666666666666664
+Men,2009,Dubai,Marathon,1.0,Haile Gebrselassie,2:05:29,24,0.041666666666666664
+Men,2009,Tokyo,,0.0,,,24,0.0
+Men,2009,Rotterdam,Marathon,4.0,Duncan Kibet,2:04:27,24,0.16666666666666666
+Men,2009,Chicago,Marathon,2.0,Samuel Kamau Wanjiru,2:05:41,24,0.08333333333333333
+Men,2010,Valencia,,0.0,,,23,0.0
+Men,2010,Amsterdam,Marathon,2.0,Getu Feleke,2:05:44,23,0.08695652173913043
+Men,2010,London,Marathon,3.0,Tsegaye Kebede,2:05:19,23,0.13043478260869565
+Men,2010,Berlin,Marathon,3.0,Patrick Makau Musyoki,2:05:08,23,0.13043478260869565
+Men,2010,Dubai,Marathon,3.0,Haile Gebrselassie,2:06:09,23,0.13043478260869565
+Men,2010,Tokyo,,0.0,,,23,0.0
+Men,2010,Rotterdam,Marathon,4.0,Patrick Makau Musyoki,2:04:48,23,0.17391304347826086
+Men,2010,Chicago,Marathon,2.0,Samuel Kamau Wanjiru,2:06:24,23,0.08695652173913043
+Men,2011,Valencia,,0.0,,,29,0.0
+Men,2011,Amsterdam,Marathon,6.0,Wilson Kwambai Chebet,2:05:53,29,0.20689655172413793
+Men,2011,London,Marathon,4.0,Emmanuel Mutai,2:04:40,29,0.13793103448275862
+Men,2011,Berlin,Marathon,1.0,Patrick Makau Musyoki,2:03:38,29,0.034482758620689655
+Men,2011,Dubai,,0.0,,,29,0.0
+Men,2011,Tokyo,,0.0,,,29,0.0
+Men,2011,Rotterdam,Marathon,2.0,Wilson Kwambai Chebet,2:05:27,29,0.06896551724137931
+Men,2011,Chicago,Marathon,3.0,Moses Mosop,2:05:37,29,0.10344827586206896
+Men,2012,Valencia,,0.0,,,51,0.0
+Men,2012,Amsterdam,Marathon,5.0,Wilson Kwambai Chebet,2:05:41,51,0.09803921568627451
+Men,2012,London,Marathon,3.0,Wilson Kipsang Kiprotich,2:04:44,51,0.058823529411764705
+Men,2012,Berlin,Marathon,3.0,Geoffrey Mutai,2:04:15,51,0.058823529411764705
+Men,2012,Dubai,Marathon,10.0,Ayele Abshero,2:04:23,51,0.19607843137254902
+Men,2012,Tokyo,,0.0,,,51,0.0
+Men,2012,Rotterdam,Marathon,3.0,Yemane Tsegay,2:04:48,51,0.058823529411764705
+Men,2012,Chicago,Marathon,6.0,Tsegaye Kebede,2:04:38,51,0.11764705882352941
+Men,2013,Valencia,,0.0,,,34,0.0
+Men,2013,Amsterdam,Marathon,3.0,Wilson Kwambai Chebet,2:05:36,34,0.08823529411764706
+Men,2013,London,Marathon,3.0,Tsegaye Kebede,2:06:04,34,0.08823529411764706
+Men,2013,Berlin,Marathon,3.0,Wilson Kipsang Kiprotich,2:03:23,34,0.08823529411764706
+Men,2013,Dubai,Marathon,6.0,Lelisa Desisa,2:04:45,34,0.17647058823529413
+Men,2013,Tokyo,Marathon,2.0,Dennis Kimetto,2:06:50,34,0.058823529411764705
+Men,2013,Rotterdam,Marathon,2.0,Tilahun Regassa,2:05:38,34,0.058823529411764705
+Men,2013,Chicago,Marathon,4.0,Dennis Kimetto,2:03:45,34,0.11764705882352941
+Men,2014,Valencia,,0.0,,,37,0.0
+Men,2014,Amsterdam,Marathon,1.0,Bernard Kiprop Kipyego,2:06:22,37,0.02702702702702703
+Men,2014,London,Marathon,4.0,Wilson Kipsang Kiprotich,2:04:29,37,0.10810810810810811
+Men,2014,Berlin,Marathon,4.0,Dennis Kimetto,2:02:57,37,0.10810810810810811
+Men,2014,Dubai,Marathon,4.0,Tsegaye Mekonnen,2:04:32,37,0.10810810810810811
+Men,2014,Tokyo,Marathon,4.0,Dickson Chumba,2:05:42,37,0.10810810810810811
+Men,2014,Rotterdam,Marathon,2.0,Eliud Kipchoge,2:05:00,37,0.05405405405405406
+Men,2014,Chicago,Marathon,4.0,Eliud Kipchoge,2:04:11,37,0.10810810810810811
+Men,2015,Valencia,Marathon,2.0,John Nzau Mwangangi,2:06:13,29,0.06896551724137931
+Men,2015,Amsterdam,Marathon,1.0,Bernard Kiprop Kipyego,2:06:19,29,0.034482758620689655
+Men,2015,London,Marathon,4.0,Eliud Kipchoge,2:04:42,29,0.13793103448275862
+Men,2015,Berlin,Marathon,3.0,Eliud Kipchoge,2:04:00,29,0.10344827586206896
+Men,2015,Dubai,Marathon,4.0,Lemi Berhanu,2:05:28,29,0.13793103448275862
+Men,2015,Tokyo,Marathon,3.0,Endeshaw Negesse,2:06:00,29,0.10344827586206896
+Men,2015,Rotterdam,Marathon,1.0,Abera Kuma,2:06:47,29,0.034482758620689655
+Men,2015,Chicago,,0.0,,,29,0.0
+Men,2016,Valencia,,0.0,,,34,0.0
+Men,2016,Amsterdam,Marathon,8.0,Daniel Kinyua,2:05:21,34,0.23529411764705882
+Men,2016,London,Marathon,3.0,Eliud Kipchoge,2:03:05,34,0.08823529411764706
+Men,2016,Berlin,Marathon,4.0,Kenenisa Bekele,2:03:03,34,0.11764705882352941
+Men,2016,Dubai,Marathon,7.0,Tesfaye Abera,2:04:24,34,0.20588235294117646
+Men,2016,Tokyo,Marathon,1.0,Feyisa Lilesa,2:06:56,34,0.029411764705882353
+Men,2016,Rotterdam,Marathon,2.0,Marius Kipserem,2:06:11,34,0.058823529411764705
+Men,2016,Chicago,,0.0,,,34,0.0
+Men,2017,Valencia,Marathon,4.0,Sammy Kitwara,2:05:15,40,0.1
+Men,2017,Amsterdam,Marathon,5.0,Lawrence Cherono,2:05:09,40,0.125
+Men,2017,London,Marathon,2.0,Daniel Kinyua,2:05:48,40,0.05
+Men,2017,Berlin,Marathon,5.0,Eliud Kipchoge,2:03:32,40,0.125
+Men,2017,Dubai,Marathon,2.0,Tamirat Tola,2:04:11,40,0.05
+Men,2017,Tokyo,Marathon,4.0,Wilson Kipsang Kiprotich,2:03:58,40,0.1
+Men,2017,Rotterdam,Marathon,3.0,Marius Kimutai,2:06:04,40,0.075
+Men,2017,Chicago,,0.0,,,40,0.0
+Men,2018,Valencia,Marathon,8.0,Leul Gebresilase,2:04:31,61,0.13114754098360656
+Men,2018,Amsterdam,Marathon,8.0,Lawrence Cherono,2:04:06,61,0.13114754098360656
+Men,2018,London,Marathon,3.0,Eliud Kipchoge,2:04:17,61,0.04918032786885246
+Men,2018,Berlin,Marathon,3.0,Eliud Kipchoge,2:01:39,61,0.04918032786885246
+Men,2018,Dubai,Marathon,7.0,Mosinet Geremew,2:04:00,61,0.11475409836065574
+Men,2018,Tokyo,Marathon,5.0,Dickson Chumba,2:05:30,61,0.08196721311475409
+Men,2018,Rotterdam,Marathon,4.0,Kenneth Kiprop Kipkemoi,2:05:44,61,0.06557377049180328
+Men,2018,Chicago,Marathon,6.0,Mo Farah,2:05:11,61,0.09836065573770492
+Men,2019,Valencia,Marathon,8.0,Kinde Atanaw,2:03:51,84,0.09523809523809523
+Men,2019,Amsterdam,Marathon,8.0,Vincent Kipchumba,2:05:09,84,0.09523809523809523
+Men,2019,London,Marathon,6.0,Eliud Kipchoge,2:02:37,84,0.07142857142857142
+Men,2019,Berlin,Marathon,4.0,Kenenisa Bekele,2:01:41,84,0.047619047619047616
+Men,2019,Dubai,Marathon,7.0,Getaneh Molla,2:03:34,84,0.08333333333333333
+Men,2019,Tokyo,Marathon,2.0,Birhanu Legese,2:04:48,84,0.023809523809523808
+Men,2019,Rotterdam,Marathon,4.0,Marius Kipserem,2:04:11,84,0.047619047619047616
+Men,2019,Chicago,Marathon,5.0,Lawrence Cherono,2:05:45,84,0.05952380952380952
+Men,2020,Valencia,Marathon,13.0,Evans Chebet,2:03:00,48,0.2708333333333333
+Men,2020,Amsterdam,,0.0,,,48,0.0
+Men,2020,London,Marathon,8.0,Shura Kitata,2:05:41,48,0.16666666666666666
+Men,2020,Berlin,,0.0,,,48,0.0
+Men,2020,Dubai,Marathon,11.0,Olika Adugna,2:06:15,48,0.22916666666666666
+Men,2020,Tokyo,Marathon,9.0,Birhanu Legese,2:04:15,48,0.1875
+Men,2020,Rotterdam,,0.0,,,48,0.0
+Men,2020,Chicago,,0.0,,,48,0.0
+Men,2021,Valencia,Marathon,13.0,Lawrence Cherono,2:05:12,85,0.15294117647058825
+Men,2021,Amsterdam,Marathon,11.0,Tamirat Tola,2:03:39,85,0.12941176470588237
+Men,2021,London,Marathon,5.0,Sisay Lemma,2:04:01,85,0.058823529411764705
+Men,2021,Berlin,Marathon,3.0,Guye Idemo Adola,2:05:45,85,0.03529411764705882
+Men,2021,Dubai,,0.0,,,85,0.0
+Men,2021,Tokyo,,0.0,,,85,0.0
+Men,2021,Rotterdam,Marathon,6.0,Bashir Abdi,2:03:36,85,0.07058823529411765
+Men,2021,Chicago,Marathon,3.0,Seifu Tura,2:06:12,85,0.03529411764705882
+Men,2022,Valencia,Marathon,12.0,Kelvin Kiptum,2:01:53,103,0.11650485436893204
+Men,2022,Amsterdam,Marathon,10.0,Tsegaye Getachew,2:04:49,103,0.0970873786407767
+Men,2022,London,Marathon,6.0,Amos Kipruto,2:04:39,103,0.05825242718446602
+Men,2022,Berlin,Marathon,5.0,Eliud Kipchoge,2:01:09,103,0.04854368932038835
+Men,2022,Dubai,,0.0,,,103,0.0
+Men,2022,Tokyo,Marathon,6.0,Eliud Kipchoge,2:02:40,103,0.05825242718446602
+Men,2022,Rotterdam,Marathon,5.0,Abdi Nageeye,2:04:56,103,0.04854368932038835
+Men,2022,Chicago,Marathon,3.0,Benson Kipruto,2:04:24,103,0.02912621359223301
+Men,2023,Valencia,Marathon,17.0,Sisay Lemma,2:01:48,125,0.136
+Men,2023,Amsterdam,Marathon,6.0,Cybrian Kotut,2:04:34,125,0.048
+Men,2023,London,Marathon,5.0,Kelvin Kiptum,2:01:25,125,0.04
+Men,2023,Berlin,Marathon,15.0,Eliud Kipchoge,2:02:42,125,0.12
+Men,2023,Dubai,Marathon,5.0,Abdisa Tola,2:05:42,125,0.04
+Men,2023,Tokyo,Marathon,9.0,Chalu Deso,2:05:22,125,0.072
+Men,2023,Rotterdam,Marathon,6.0,Bashir Abdi,2:03:47,125,0.048
+Men,2023,Chicago,Marathon,5.0,Kelvin Kiptum,2:00:35,125,0.04
+Men,2024,Valencia,Marathon,18.0,Sabastian Kimaru Sawe,2:02:05,123,0.14634146341463414
+Men,2024,Amsterdam,Marathon,4.0,Tsegaye Getachew,2:05:38,123,0.032520325203252036
+Men,2024,London,Marathon,3.0,Alexander Munyao,2:04:01,123,0.024390243902439025
+Men,2024,Berlin,Marathon,14.0,Milkesa Mengesha,2:03:17,123,0.11382113821138211
+Men,2024,Dubai,Marathon,6.0,Addisu Gobena,2:05:01,123,0.04878048780487805
+Men,2024,Tokyo,Marathon,12.0,Benson Kipruto,2:02:16,123,0.0975609756097561
+Men,2024,Rotterdam,Marathon,6.0,Abdi Nageeye,2:04:45,123,0.04878048780487805
+Men,2024,Chicago,Marathon,5.0,John Korir,2:02:44,123,0.04065040650406504
+Men,2025,Valencia,Marathon,11.0,John Korir,2:02:24,128,0.0859375
+Men,2025,Amsterdam,Marathon,7.0,Geofry Toroitich Kipchumba,2:03:30,128,0.0546875
+Men,2025,London,Marathon,8.0,Sabastian Kimaru Sawe,2:02:27,128,0.0625
+Men,2025,Berlin,Marathon,3.0,Sabastian Kimaru Sawe,2:02:16,128,0.0234375
+Men,2025,Dubai,Marathon,4.0,Bute Gemechu,2:04:51,128,0.03125
+Men,2025,Tokyo,Marathon,14.0,Tadese Takele,2:03:23,128,0.109375
+Men,2025,Rotterdam,Marathon,4.0,Geoffrey Kamworor,2:04:33,128,0.03125
+Men,2025,Chicago,Marathon,9.0,Jacob Kiplimo,2:02:23,128,0.0703125
+Women,2001,London,Marathon,1.0,Derartu Tulu,2:23:57,5,0.2
+Women,2001,Berlin,Marathon,1.0,Naoko Takahashi,2:19:46,5,0.2
+Women,2001,Dubai,,0.0,,,5,0.0
+Women,2001,Valencia,,0.0,,,5,0.0
+Women,2001,Chicago,Marathon,1.0,Catherine Ndereba,2:18:47,5,0.2
+Women,2001,Tokyo,,0.0,,,5,0.0
+Women,2001,Amsterdam,,0.0,,,5,0.0
+Women,2001,Frankfurt,,0.0,,,5,0.0
+Women,2002,London,Marathon,5.0,Paula Radcliffe,2:18:56,18,0.2777777777777778
+Women,2002,Berlin,Marathon,1.0,Naoko Takahashi,2:21:49,18,0.05555555555555555
+Women,2002,Dubai,,0.0,,,18,0.0
+Women,2002,Valencia,,0.0,,,18,0.0
+Women,2002,Chicago,Marathon,4.0,Paula Radcliffe,2:17:18,18,0.2222222222222222
+Women,2002,Tokyo,,0.0,,,18,0.0
+Women,2002,Amsterdam,Marathon,2.0,Gete Wami,2:22:19,18,0.1111111111111111
+Women,2002,Frankfurt,,0.0,,,18,0.0
+Women,2003,London,Marathon,6.0,Paula Radcliffe,2:15:25,17,0.35294117647058826
+Women,2003,Berlin,,0.0,,,17,0.0
+Women,2003,Dubai,,0.0,,,17,0.0
+Women,2003,Valencia,,0.0,,,17,0.0
+Women,2003,Chicago,Marathon,2.0,Svetlana Zakharova,2:23:07,17,0.11764705882352941
+Women,2003,Tokyo,,0.0,,,17,0.0
+Women,2003,Amsterdam,,0.0,,,17,0.0
+Women,2003,Frankfurt,,0.0,,,17,0.0
+Women,2004,London,Marathon,1.0,Margaret Okayo,2:22:35,6,0.16666666666666666
+Women,2004,Berlin,Marathon,2.0,Yoko Shibui,2:19:41,6,0.3333333333333333
+Women,2004,Dubai,,0.0,,,6,0.0
+Women,2004,Valencia,,0.0,,,6,0.0
+Women,2004,Chicago,Marathon,1.0,Constantina Dita-Tomescu,2:23:45,6,0.16666666666666666
+Women,2004,Tokyo,,0.0,,,6,0.0
+Women,2004,Amsterdam,,0.0,,,6,0.0
+Women,2004,Frankfurt,,0.0,,,6,0.0
+Women,2005,London,Marathon,2.0,Paula Radcliffe,2:17:42,14,0.14285714285714285
+Women,2005,Berlin,Marathon,1.0,Mizuki Noguchi,2:19:12,14,0.07142857142857142
+Women,2005,Dubai,,0.0,,,14,0.0
+Women,2005,Valencia,,0.0,,,14,0.0
+Women,2005,Chicago,Marathon,2.0,Deena Kastor,2:21:25,14,0.14285714285714285
+Women,2005,Tokyo,,0.0,,,14,0.0
+Women,2005,Amsterdam,,0.0,,,14,0.0
+Women,2005,Frankfurt,,0.0,,,14,0.0
+Women,2006,London,Marathon,5.0,Deena Kastor,2:19:36,14,0.35714285714285715
+Women,2006,Berlin,Marathon,2.0,Gete Wami,2:21:34,14,0.14285714285714285
+Women,2006,Dubai,,0.0,,,14,0.0
+Women,2006,Valencia,,0.0,,,14,0.0
+Women,2006,Chicago,Marathon,4.0,Berhane Adere,2:20:42,14,0.2857142857142857
+Women,2006,Tokyo,,0.0,,,14,0.0
+Women,2006,Amsterdam,,0.0,,,14,0.0
+Women,2006,Frankfurt,,0.0,,,14,0.0
+Women,2007,London,Marathon,3.0,Chunxiu Zhou,2:20:38,8,0.375
+Women,2007,Berlin,Marathon,1.0,Gete Wami,2:23:17,8,0.125
+Women,2007,Dubai,,0.0,,,8,0.0
+Women,2007,Valencia,,0.0,,,8,0.0
+Women,2007,Chicago,,0.0,,,8,0.0
+Women,2007,Tokyo,Marathon,2.0,Mizuki Noguchi,2:21:37,8,0.25
+Women,2007,Amsterdam,,0.0,,,8,0.0
+Women,2007,Frankfurt,,0.0,,,8,0.0
+Women,2008,London,,0.0,,,9,0.0
+Women,2008,Berlin,Marathon,2.0,Irina Mikitenko,2:19:19,9,0.2222222222222222
+Women,2008,Dubai,Marathon,3.0,Berhane Adere,2:22:42,9,0.3333333333333333
+Women,2008,Valencia,,0.0,,,9,0.0
+Women,2008,Chicago,,0.0,,,9,0.0
+Women,2008,Tokyo,Marathon,1.0,Yoshimi Ozaki,2:23:30,9,0.1111111111111111
+Women,2008,Amsterdam,,0.0,,,9,0.0
+Women,2008,Frankfurt,,0.0,,,9,0.0
+Women,2009,London,Marathon,2.0,Irina Mikitenko,2:22:11,3,0.6666666666666666
+Women,2009,Berlin,,0.0,,,3,0.0
+Women,2009,Dubai,,0.0,,,3,0.0
+Women,2009,Valencia,,0.0,,,3,0.0
+Women,2009,Chicago,,0.0,,,3,0.0
+Women,2009,Tokyo,,0.0,,,3,0.0
+Women,2009,Amsterdam,,0.0,,,3,0.0
+Women,2009,Frankfurt,,0.0,,,3,0.0
+Women,2010,London,Marathon,2.0,Asselefech Medessa Mergia,2:22:38,11,0.18181818181818182
+Women,2010,Berlin,Marathon,1.0,Aberu Kebede,2:23:58,11,0.09090909090909091
+Women,2010,Dubai,,0.0,,,11,0.0
+Women,2010,Valencia,,0.0,,,11,0.0
+Women,2010,Chicago,Marathon,1.0,Atsede Bayisa,2:23:40,11,0.09090909090909091
+Women,2010,Tokyo,,0.0,,,11,0.0
+Women,2010,Amsterdam,,0.0,,,11,0.0
+Women,2010,Frankfurt,Marathon,2.0,Caroline Cheptanui Kilel,2:23:25,11,0.18181818181818182
+Women,2011,London,Marathon,4.0,Mary Jepkosgei Keitany,2:19:19,22,0.18181818181818182
+Women,2011,Berlin,Marathon,3.0,Florence Kiplagat,2:19:44,22,0.13636363636363635
+Women,2011,Dubai,Marathon,3.0,Asselefech Medessa Mergia,2:22:45,22,0.13636363636363635
+Women,2011,Valencia,,0.0,,,22,0.0
+Women,2011,Chicago,Marathon,1.0,Ejegayehu Dibaba,2:22:09,22,0.045454545454545456
+Women,2011,Tokyo,,0.0,,,22,0.0
+Women,2011,Amsterdam,Marathon,1.0,Tiki Gelana,2:22:08,22,0.045454545454545456
+Women,2011,Frankfurt,Marathon,2.0,Mamitu Daska,2:21:59,22,0.09090909090909091
+Women,2012,London,Marathon,5.0,Mary Jepkosgei Keitany,2:18:37,43,0.11627906976744186
+Women,2012,Berlin,Marathon,3.0,Aberu Kebede,2:20:30,43,0.06976744186046512
+Women,2012,Dubai,Marathon,8.0,Asselefech Medessa Mergia,2:19:31,43,0.18604651162790697
+Women,2012,Valencia,,0.0,,,43,0.0
+Women,2012,Chicago,Marathon,4.0,Atsede Bayisa,2:22:03,43,0.09302325581395349
+Women,2012,Tokyo,,0.0,,,43,0.0
+Women,2012,Amsterdam,Marathon,2.0,Meseret Hailu Debele,2:21:09,43,0.046511627906976744
+Women,2012,Frankfurt,Marathon,4.0,Meselech Melkamu,2:21:01,43,0.09302325581395349
+Women,2013,London,Marathon,2.0,Prisca Jeptoo,2:20:15,26,0.07692307692307693
+Women,2013,Berlin,Marathon,2.0,Florence Kiplagat,2:21:13,26,0.07692307692307693
+Women,2013,Dubai,Marathon,3.0,Tirfi Tsegaye,2:23:23,26,0.11538461538461539
+Women,2013,Valencia,,0.0,,,26,0.0
+Women,2013,Chicago,Marathon,2.0,Rita Jeptoo Sitienei,2:19:57,26,0.07692307692307693
+Women,2013,Tokyo,,0.0,,,26,0.0
+Women,2013,Amsterdam,Marathon,1.0,Valentine Kipketer,2:23:02,26,0.038461538461538464
+Women,2013,Frankfurt,Marathon,5.0,Caroline Cheptanui Kilel,2:22:34,26,0.19230769230769232
+Women,2014,London,Marathon,5.0,Edna Ngeringwony Kiplagat,2:20:21,18,0.2777777777777778
+Women,2014,Berlin,Marathon,4.0,Tirfi Tsegaye,2:20:18,18,0.2222222222222222
+Women,2014,Dubai,,0.0,,,18,0.0
+Women,2014,Valencia,,0.0,,,18,0.0
+Women,2014,Chicago,,0.0,,,18,0.0
+Women,2014,Tokyo,Marathon,2.0,Tirfi Tsegaye,2:22:23,18,0.1111111111111111
+Women,2014,Amsterdam,,0.0,,,18,0.0
+Women,2014,Frankfurt,Marathon,2.0,Aberu Kebede,2:22:21,18,0.1111111111111111
+Women,2015,London,Marathon,4.0,Tigist Tufa,2:23:22,31,0.12903225806451613
+Women,2015,Berlin,Marathon,2.0,Gladys Cherono,2:19:25,31,0.06451612903225806
+Women,2015,Dubai,Marathon,9.0,Asselefech Medessa Mergia,2:20:02,31,0.2903225806451613
+Women,2015,Valencia,,0.0,,,31,0.0
+Women,2015,Chicago,Marathon,2.0,Florence Kiplagat,2:23:33,31,0.06451612903225806
+Women,2015,Tokyo,Marathon,1.0,Birhane Dibaba,2:23:15,31,0.03225806451612903
+Women,2015,Amsterdam,,0.0,,,31,0.0
+Women,2015,Frankfurt,Marathon,3.0,Gulume Chala,2:23:12,31,0.0967741935483871
+Women,2016,London,Marathon,5.0,Jemima Jelagat Sumgong,2:22:58,25,0.2
+Women,2016,Berlin,Marathon,2.0,Aberu Kebede,2:20:45,25,0.08
+Women,2016,Dubai,Marathon,3.0,Tirfi Tsegaye,2:19:41,25,0.12
+Women,2016,Valencia,,0.0,,,25,0.0
+Women,2016,Chicago,Marathon,3.0,Florence Kiplagat,2:21:32,25,0.12
+Women,2016,Tokyo,Marathon,5.0,Helah Jelagat Kiprop,2:21:27,25,0.2
+Women,2016,Amsterdam,Marathon,1.0,Meselech Melkamu,2:23:21,25,0.04
+Women,2016,Frankfurt,,0.0,,,25,0.0
+Women,2017,London,Marathon,4.0,Mary Jepkosgei Keitany,2:17:01,36,0.1111111111111111
+Women,2017,Berlin,Marathon,4.0,Gladys Cherono,2:20:23,36,0.1111111111111111
+Women,2017,Dubai,Marathon,3.0,Worknesh Degefa,2:22:36,36,0.08333333333333333
+Women,2017,Valencia,,0.0,,,36,0.0
+Women,2017,Chicago,Marathon,3.0,Tirunesh Dibaba,2:18:31,36,0.08333333333333333
+Women,2017,Tokyo,Marathon,3.0,Sarah Chepchirchir,2:19:47,36,0.08333333333333333
+Women,2017,Amsterdam,Marathon,1.0,Tadelech Bekele,2:21:54,36,0.027777777777777776
+Women,2017,Frankfurt,Marathon,1.0,Vivian Jepkemei Cheruiyot,2:23:35,36,0.027777777777777776
+Women,2018,London,Marathon,3.0,Vivian Jepkemei Cheruiyot,2:18:31,64,0.046875
+Women,2018,Berlin,Marathon,6.0,Gladys Cherono,2:18:11,64,0.09375
+Women,2018,Dubai,Marathon,7.0,Roza Dereje,2:19:17,64,0.109375
+Women,2018,Valencia,Marathon,3.0,Ashete Bekere,2:21:14,64,0.046875
+Women,2018,Chicago,Marathon,3.0,Brigid Kosgei,2:18:35,64,0.046875
+Women,2018,Tokyo,Marathon,4.0,Birhane Dibaba,2:19:51,64,0.0625
+Women,2018,Amsterdam,Marathon,5.0,Tadelech Bekele,2:23:14,64,0.078125
+Women,2018,Frankfurt,Marathon,7.0,Meskerem Assefa,2:20:36,64,0.109375
+Women,2019,London,Marathon,6.0,Brigid Kosgei,2:18:20,79,0.0759493670886076
+Women,2019,Berlin,Marathon,6.0,Ashete Bekere,2:20:14,79,0.0759493670886076
+Women,2019,Dubai,Marathon,4.0,Ruth Chepngetich,2:17:08,79,0.05063291139240506
+Women,2019,Valencia,Marathon,8.0,Roza Dereje,2:18:30,79,0.10126582278481013
+Women,2019,Chicago,Marathon,3.0,Brigid Kosgei,2:14:04,79,0.0379746835443038
+Women,2019,Tokyo,Marathon,5.0,Ruti Aga,2:20:40,79,0.06329113924050633
+Women,2019,Amsterdam,Marathon,5.0,Degitu Azimeraw,2:19:26,79,0.06329113924050633
+Women,2019,Frankfurt,Marathon,4.0,Valary Jemeli,2:19:10,79,0.05063291139240506
+Women,2020,London,Marathon,4.0,Brigid Kosgei,2:18:58,42,0.09523809523809523
+Women,2020,Berlin,,0.0,,,42,0.0
+Women,2020,Dubai,Marathon,6.0,Worknesh Degefa,2:19:38,42,0.14285714285714285
+Women,2020,Valencia,Marathon,9.0,Peres Jepchirchir,2:17:16,42,0.21428571428571427
+Women,2020,Chicago,,0.0,,,42,0.0
+Women,2020,Tokyo,Marathon,6.0,Lonah Chemtai Salpeter,2:17:45,42,0.14285714285714285
+Women,2020,Amsterdam,,0.0,,,42,0.0
+Women,2020,Frankfurt,,0.0,,,42,0.0
+Women,2021,London,Marathon,10.0,Joyciline Jepkosgei,2:17:43,46,0.21739130434782608
+Women,2021,Berlin,Marathon,3.0,Gotytom Gebreslase,2:20:09,46,0.06521739130434782
+Women,2021,Dubai,,0.0,,,46,0.0
+Women,2021,Valencia,Marathon,5.0,Nancy Jelagat Meto,2:19:31,46,0.10869565217391304
+Women,2021,Chicago,Marathon,1.0,Ruth Chepngetich,2:22:31,46,0.021739130434782608
+Women,2021,Tokyo,,0.0,,,46,0.0
+Women,2021,Amsterdam,Marathon,4.0,Angela Tanui,2:17:57,46,0.08695652173913043
+Women,2021,Frankfurt,,0.0,,,46,0.0
+Women,2022,London,Marathon,9.0,Yalemzerf Yehualaw,2:17:26,117,0.07692307692307693
+Women,2022,Berlin,Marathon,14.0,Tigst Assefa,2:15:37,117,0.11965811965811966
+Women,2022,Dubai,,0.0,,,117,0.0
+Women,2022,Valencia,Marathon,15.0,Amane Beriso Shankule,2:14:58,117,0.1282051282051282
+Women,2022,Chicago,Marathon,5.0,Ruth Chepngetich,2:14:18,117,0.042735042735042736
+Women,2022,Tokyo,Marathon,8.0,Brigid Kosgei,2:16:02,117,0.06837606837606838
+Women,2022,Amsterdam,Marathon,3.0,Almaz Ayana,2:17:20,117,0.02564102564102564
+Women,2022,Frankfurt,Marathon,1.0,Selly Chepyego Kaptich,2:23:11,117,0.008547008547008548
+Women,2023,London,Marathon,8.0,Sifan Hassan,2:18:33,120,0.06666666666666667
+Women,2023,Berlin,Marathon,13.0,Tigst Assefa,2:11:53,120,0.10833333333333334
+Women,2023,Dubai,Marathon,6.0,Dera Dida,2:21:11,120,0.05
+Women,2023,Valencia,Marathon,9.0,Worknesh Degefa,2:15:51,120,0.075
+Women,2023,Chicago,Marathon,10.0,Sifan Hassan,2:13:44,120,0.08333333333333333
+Women,2023,Tokyo,Marathon,6.0,Rosemary Wanjiru,2:16:28,120,0.05
+Women,2023,Amsterdam,Marathon,8.0,Meseret Belete,2:18:21,120,0.06666666666666667
+Women,2023,Frankfurt,Marathon,5.0,Buzunesh Getachew,2:19:27,120,0.041666666666666664
+Women,2024,London,Marathon,8.0,Peres Jepchirchir,2:16:16,139,0.05755395683453238
+Women,2024,Berlin,Marathon,11.0,Tigist Ketema,2:16:42,139,0.07913669064748201
+Women,2024,Dubai,Marathon,7.0,Tigist Ketema,2:16:07,139,0.050359712230215826
+Women,2024,Valencia,Marathon,11.0,Megertu Alemu,2:16:49,139,0.07913669064748201
+Women,2024,Chicago,Marathon,10.0,Ruth Chepngetich,2:09:56,139,0.07194244604316546
+Women,2024,Tokyo,Marathon,7.0,Sutume Asefa Kebede,2:15:55,139,0.050359712230215826
+Women,2024,Amsterdam,Marathon,10.0,Yalemzerf Yehualaw,2:16:52,139,0.07194244604316546
+Women,2024,Frankfurt,Marathon,7.0,Hawi Feysa,2:17:25,139,0.050359712230215826
+Women,2025,London,Marathon,7.0,Tigst Assefa,2:15:50,138,0.050724637681159424
+Women,2025,Berlin,Marathon,8.0,Rosemary Wanjiru,2:21:05,138,0.057971014492753624
+Women,2025,Dubai,Marathon,8.0,Bedatu Hirpa,2:18:27,138,0.057971014492753624
+Women,2025,Valencia,Marathon,9.0,Joyciline Jepkosgei,2:14:00,138,0.06521739130434782
+Women,2025,Chicago,Marathon,6.0,Hawi Feysa,2:14:57,138,0.043478260869565216
+Women,2025,Tokyo,Marathon,11.0,Sutume Asefa Kebede,2:16:31,138,0.07971014492753623
+Women,2025,Amsterdam,Marathon,7.0,Aynalem Desta,2:17:37,138,0.050724637681159424
+Women,2025,Frankfurt,Marathon,6.0,Buze Diriba,2:19:34,138,0.043478260869565216

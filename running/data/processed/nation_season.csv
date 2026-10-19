@@ -1,0 +1,514 @@
+event,sex,season,nat,elite_performances
+Half marathon,men,2001,ESP,1
+Half marathon,men,2002,KEN,2
+Half marathon,men,2005,KEN,3
+Half marathon,men,2006,ERI,1
+Half marathon,men,2006,ETH,1
+Half marathon,men,2006,KEN,3
+Half marathon,men,2007,BRA,1
+Half marathon,men,2007,ERI,2
+Half marathon,men,2007,ETH,3
+Half marathon,men,2007,KEN,15
+Half marathon,men,2007,RWA,1
+Half marathon,men,2007,USA,1
+Half marathon,men,2008,ERI,1
+Half marathon,men,2008,ETH,4
+Half marathon,men,2008,KEN,13
+Half marathon,men,2008,TAN,2
+Half marathon,men,2009,ERI,1
+Half marathon,men,2009,ETH,3
+Half marathon,men,2009,KEN,24
+Half marathon,men,2009,MAR,1
+Half marathon,men,2010,ERI,1
+Half marathon,men,2010,ETH,6
+Half marathon,men,2010,KEN,18
+Half marathon,men,2011,ERI,2
+Half marathon,men,2011,ETH,7
+Half marathon,men,2011,KEN,11
+Half marathon,men,2012,ERI,1
+Half marathon,men,2012,ETH,2
+Half marathon,men,2012,KEN,21
+Half marathon,men,2013,ETH,2
+Half marathon,men,2013,KEN,14
+Half marathon,men,2014,ERI,4
+Half marathon,men,2014,ETH,6
+Half marathon,men,2014,KEN,26
+Half marathon,men,2015,BRN,1
+Half marathon,men,2015,ERI,2
+Half marathon,men,2015,ETH,4
+Half marathon,men,2015,GBR,1
+Half marathon,men,2015,KEN,23
+Half marathon,men,2015,NZL,1
+Half marathon,men,2016,ETH,4
+Half marathon,men,2016,GBR,1
+Half marathon,men,2016,KEN,26
+Half marathon,men,2016,MAR,2
+Half marathon,men,2017,BRN,2
+Half marathon,men,2017,ETH,8
+Half marathon,men,2017,KEN,17
+Half marathon,men,2017,NOR,1
+Half marathon,men,2017,TAN,1
+Half marathon,men,2017,UGA,1
+Half marathon,men,2017,USA,1
+Half marathon,men,2018,BRN,1
+Half marathon,men,2018,ERI,1
+Half marathon,men,2018,ETH,12
+Half marathon,men,2018,KEN,29
+Half marathon,men,2018,USA,1
+Half marathon,men,2019,BRN,1
+Half marathon,men,2019,ERI,1
+Half marathon,men,2019,ETH,16
+Half marathon,men,2019,KEN,31
+Half marathon,men,2019,RSA,1
+Half marathon,men,2019,SUI,1
+Half marathon,men,2019,TUR,1
+Half marathon,men,2019,UGA,1
+Half marathon,men,2020,AUS,1
+Half marathon,men,2020,ETH,12
+Half marathon,men,2020,FRA,1
+Half marathon,men,2020,KEN,24
+Half marathon,men,2020,RSA,1
+Half marathon,men,2020,SUI,1
+Half marathon,men,2020,TAN,1
+Half marathon,men,2020,UGA,6
+Half marathon,men,2021,DJI,1
+Half marathon,men,2021,ETH,11
+Half marathon,men,2021,KEN,35
+Half marathon,men,2021,UGA,1
+Half marathon,men,2022,ETH,19
+Half marathon,men,2022,ITA,1
+Half marathon,men,2022,KEN,41
+Half marathon,men,2022,MAR,1
+Half marathon,men,2022,SSD,1
+Half marathon,men,2022,SUI,1
+Half marathon,men,2022,UGA,3
+Half marathon,men,2023,BEL,1
+Half marathon,men,2023,ESP,1
+Half marathon,men,2023,ETH,15
+Half marathon,men,2023,FRA,2
+Half marathon,men,2023,ITA,1
+Half marathon,men,2023,KEN,52
+Half marathon,men,2023,MAR,2
+Half marathon,men,2023,POR,1
+Half marathon,men,2023,RSA,1
+Half marathon,men,2024,BRN,1
+Half marathon,men,2024,ESP,1
+Half marathon,men,2024,ETH,9
+Half marathon,men,2024,FRA,1
+Half marathon,men,2024,KEN,34
+Half marathon,men,2024,MAR,1
+Half marathon,men,2024,SWE,1
+Half marathon,men,2024,UGA,2
+Half marathon,men,2025,BDI,2
+Half marathon,men,2025,DJI,2
+Half marathon,men,2025,ETH,13
+Half marathon,men,2025,FRA,1
+Half marathon,men,2025,GER,1
+Half marathon,men,2025,ISR,1
+Half marathon,men,2025,ITA,1
+Half marathon,men,2025,JPN,2
+Half marathon,men,2025,KEN,38
+Half marathon,men,2025,RSA,1
+Half marathon,men,2025,SWE,1
+Half marathon,men,2025,TAN,1
+Half marathon,men,2025,UGA,2
+Half marathon,men,2025,USA,3
+Half marathon,women,2001,GBR,1
+Half marathon,women,2007,KEN,1
+Half marathon,women,2007,NED,1
+Half marathon,women,2009,KEN,2
+Half marathon,women,2011,KEN,1
+Half marathon,women,2012,KEN,1
+Half marathon,women,2013,ETH,1
+Half marathon,women,2013,KEN,4
+Half marathon,women,2014,KEN,2
+Half marathon,women,2015,ETH,1
+Half marathon,women,2015,KEN,4
+Half marathon,women,2016,ETH,2
+Half marathon,women,2016,KEN,8
+Half marathon,women,2017,BRN,3
+Half marathon,women,2017,ETH,1
+Half marathon,women,2017,KEN,12
+Half marathon,women,2018,ETH,10
+Half marathon,women,2018,KEN,16
+Half marathon,women,2018,NED,1
+Half marathon,women,2018,UAE,1
+Half marathon,women,2019,ETH,15
+Half marathon,women,2019,ISR,1
+Half marathon,women,2019,KEN,15
+Half marathon,women,2019,NED,2
+Half marathon,women,2020,ETH,11
+Half marathon,women,2020,GER,1
+Half marathon,women,2020,JPN,1
+Half marathon,women,2020,KEN,13
+Half marathon,women,2020,TAN,1
+Half marathon,women,2020,TUR,1
+Half marathon,women,2021,BRN,1
+Half marathon,women,2021,ETH,9
+Half marathon,women,2021,KEN,13
+Half marathon,women,2022,ETH,12
+Half marathon,women,2022,GBR,1
+Half marathon,women,2022,GER,1
+Half marathon,women,2022,KEN,18
+Half marathon,women,2022,TAN,1
+Half marathon,women,2023,ETH,17
+Half marathon,women,2023,GBR,1
+Half marathon,women,2023,GER,1
+Half marathon,women,2023,KEN,17
+Half marathon,women,2023,USA,2
+Half marathon,women,2024,ETH,11
+Half marathon,women,2024,KEN,25
+Half marathon,women,2024,NOR,1
+Half marathon,women,2024,ROU,1
+Half marathon,women,2024,TAN,1
+Half marathon,women,2024,USA,1
+Half marathon,women,2025,ETH,13
+Half marathon,women,2025,GBR,1
+Half marathon,women,2025,KEN,23
+Half marathon,women,2025,USA,1
+Marathon,men,2001,KEN,1
+Marathon,men,2002,ETH,1
+Marathon,men,2002,JPN,1
+Marathon,men,2002,KEN,6
+Marathon,men,2002,MAR,2
+Marathon,men,2002,USA,2
+Marathon,men,2003,FRA,2
+Marathon,men,2003,KEN,8
+Marathon,men,2004,KEN,7
+Marathon,men,2005,ETH,1
+Marathon,men,2006,ESP,1
+Marathon,men,2006,ETH,2
+Marathon,men,2006,KEN,5
+Marathon,men,2006,RSA,1
+Marathon,men,2007,ETH,2
+Marathon,men,2007,KEN,4
+Marathon,men,2008,ETH,5
+Marathon,men,2008,KEN,9
+Marathon,men,2008,MAR,1
+Marathon,men,2008,USA,1
+Marathon,men,2009,ETH,6
+Marathon,men,2009,KEN,16
+Marathon,men,2009,MAR,2
+Marathon,men,2010,ETH,10
+Marathon,men,2010,KEN,12
+Marathon,men,2010,MAR,1
+Marathon,men,2011,BRA,1
+Marathon,men,2011,KEN,28
+Marathon,men,2012,ETH,25
+Marathon,men,2012,KEN,26
+Marathon,men,2013,ETH,11
+Marathon,men,2013,KEN,23
+Marathon,men,2014,BRN,1
+Marathon,men,2014,ETH,17
+Marathon,men,2014,KEN,19
+Marathon,men,2015,ETH,10
+Marathon,men,2015,KEN,18
+Marathon,men,2015,UGA,1
+Marathon,men,2016,ETH,12
+Marathon,men,2016,KEN,21
+Marathon,men,2016,SUI,1
+Marathon,men,2017,BRN,1
+Marathon,men,2017,ETH,10
+Marathon,men,2017,KEN,28
+Marathon,men,2017,NOR,1
+Marathon,men,2018,BRN,1
+Marathon,men,2018,ETH,22
+Marathon,men,2018,GBR,2
+Marathon,men,2018,JPN,3
+Marathon,men,2018,KEN,29
+Marathon,men,2018,MAR,1
+Marathon,men,2018,TUR,1
+Marathon,men,2018,USA,2
+Marathon,men,2019,BEL,1
+Marathon,men,2019,BRN,2
+Marathon,men,2019,ERI,1
+Marathon,men,2019,ETH,38
+Marathon,men,2019,GBR,1
+Marathon,men,2019,KEN,34
+Marathon,men,2019,NED,1
+Marathon,men,2019,NOR,1
+Marathon,men,2019,QAT,1
+Marathon,men,2019,TUR,2
+Marathon,men,2019,UGA,2
+Marathon,men,2020,BEL,1
+Marathon,men,2020,BRN,1
+Marathon,men,2020,ERI,1
+Marathon,men,2020,ESP,1
+Marathon,men,2020,ETH,26
+Marathon,men,2020,JPN,3
+Marathon,men,2020,KEN,14
+Marathon,men,2020,MAR,1
+Marathon,men,2021,BEL,1
+Marathon,men,2021,BRA,1
+Marathon,men,2021,BRN,2
+Marathon,men,2021,ERI,7
+Marathon,men,2021,ESP,1
+Marathon,men,2021,ETH,27
+Marathon,men,2021,GER,1
+Marathon,men,2021,JPN,5
+Marathon,men,2021,KEN,34
+Marathon,men,2021,MAR,3
+Marathon,men,2021,TAN,2
+Marathon,men,2021,USA,1
+Marathon,men,2022,BEL,3
+Marathon,men,2022,BRA,1
+Marathon,men,2022,ERI,3
+Marathon,men,2022,ESP,1
+Marathon,men,2022,ETH,43
+Marathon,men,2022,FRA,1
+Marathon,men,2022,ISR,2
+Marathon,men,2022,JPN,1
+Marathon,men,2022,KEN,38
+Marathon,men,2022,MAR,2
+Marathon,men,2022,NED,1
+Marathon,men,2022,SUI,1
+Marathon,men,2022,TAN,2
+Marathon,men,2022,TUR,1
+Marathon,men,2022,UGA,2
+Marathon,men,2022,ZIM,1
+Marathon,men,2023,BEL,3
+Marathon,men,2023,BRN,1
+Marathon,men,2023,CAN,1
+Marathon,men,2023,DJI,1
+Marathon,men,2023,ERI,2
+Marathon,men,2023,ESP,1
+Marathon,men,2023,ETH,46
+Marathon,men,2023,FRA,5
+Marathon,men,2023,GER,1
+Marathon,men,2023,ISR,4
+Marathon,men,2023,JPN,6
+Marathon,men,2023,KEN,43
+Marathon,men,2023,MAR,2
+Marathon,men,2023,NED,1
+Marathon,men,2023,RSA,1
+Marathon,men,2023,SUI,2
+Marathon,men,2023,TAN,3
+Marathon,men,2023,TUR,1
+Marathon,men,2023,UGA,1
+Marathon,men,2024,AUS,1
+Marathon,men,2024,BEL,1
+Marathon,men,2024,CHN,1
+Marathon,men,2024,DJI,1
+Marathon,men,2024,ERI,4
+Marathon,men,2024,ETH,40
+Marathon,men,2024,FRA,1
+Marathon,men,2024,GBR,1
+Marathon,men,2024,GER,4
+Marathon,men,2024,ISR,4
+Marathon,men,2024,ITA,3
+Marathon,men,2024,JPN,10
+Marathon,men,2024,KEN,44
+Marathon,men,2024,MAR,1
+Marathon,men,2024,NED,1
+Marathon,men,2024,RWA,1
+Marathon,men,2024,SUI,2
+Marathon,men,2024,TAN,1
+Marathon,men,2024,UGA,1
+Marathon,men,2024,USA,1
+Marathon,men,2025,BRN,2
+Marathon,men,2025,CAN,1
+Marathon,men,2025,DJI,1
+Marathon,men,2025,ERI,1
+Marathon,men,2025,ESP,1
+Marathon,men,2025,ETH,42
+Marathon,men,2025,FRA,1
+Marathon,men,2025,GBR,1
+Marathon,men,2025,GER,4
+Marathon,men,2025,ISR,1
+Marathon,men,2025,JPN,14
+Marathon,men,2025,KEN,40
+Marathon,men,2025,LES,1
+Marathon,men,2025,MAR,4
+Marathon,men,2025,NED,2
+Marathon,men,2025,NOR,1
+Marathon,men,2025,RSA,1
+Marathon,men,2025,SUI,1
+Marathon,men,2025,SWE,1
+Marathon,men,2025,TAN,2
+Marathon,men,2025,UGA,5
+Marathon,men,2025,USA,1
+Marathon,women,2001,CHN,1
+Marathon,women,2001,ETH,1
+Marathon,women,2001,JPN,2
+Marathon,women,2001,KEN,1
+Marathon,women,2002,BEL,1
+Marathon,women,2002,CHN,3
+Marathon,women,2002,ETH,1
+Marathon,women,2002,GBR,2
+Marathon,women,2002,JPN,4
+Marathon,women,2002,KEN,3
+Marathon,women,2002,ROU,1
+Marathon,women,2002,RUS,3
+Marathon,women,2003,CHN,3
+Marathon,women,2003,GBR,1
+Marathon,women,2003,JPN,4
+Marathon,women,2003,KEN,4
+Marathon,women,2003,ROU,2
+Marathon,women,2003,RUS,2
+Marathon,women,2003,USA,1
+Marathon,women,2004,CHN,1
+Marathon,women,2004,JPN,3
+Marathon,women,2004,KEN,1
+Marathon,women,2004,ROU,1
+Marathon,women,2005,CHN,3
+Marathon,women,2005,ETH,1
+Marathon,women,2005,GBR,2
+Marathon,women,2005,JPN,2
+Marathon,women,2005,KEN,1
+Marathon,women,2005,LAT,1
+Marathon,women,2005,ROU,3
+Marathon,women,2005,USA,1
+Marathon,women,2006,AUS,1
+Marathon,women,2006,CHN,1
+Marathon,women,2006,ETH,3
+Marathon,women,2006,JPN,2
+Marathon,women,2006,KEN,2
+Marathon,women,2006,MEX,1
+Marathon,women,2006,RUS,3
+Marathon,women,2006,USA,1
+Marathon,women,2007,CHN,2
+Marathon,women,2007,ETH,2
+Marathon,women,2007,JPN,2
+Marathon,women,2007,KEN,1
+Marathon,women,2007,ROU,1
+Marathon,women,2008,CHN,2
+Marathon,women,2008,ETH,4
+Marathon,women,2008,GER,1
+Marathon,women,2008,JPN,1
+Marathon,women,2008,RUS,1
+Marathon,women,2009,GBR,1
+Marathon,women,2009,GER,1
+Marathon,women,2009,JPN,1
+Marathon,women,2010,ETH,9
+Marathon,women,2010,KEN,2
+Marathon,women,2011,ETH,10
+Marathon,women,2011,GBR,1
+Marathon,women,2011,GER,1
+Marathon,women,2011,JPN,1
+Marathon,women,2011,KEN,8
+Marathon,women,2011,SWE,1
+Marathon,women,2012,CHN,2
+Marathon,women,2012,ETH,19
+Marathon,women,2012,ITA,1
+Marathon,women,2012,JPN,1
+Marathon,women,2012,KEN,17
+Marathon,women,2012,RUS,2
+Marathon,women,2012,UKR,1
+Marathon,women,2013,ETH,12
+Marathon,women,2013,JPN,1
+Marathon,women,2013,KEN,13
+Marathon,women,2014,ETH,13
+Marathon,women,2014,KEN,4
+Marathon,women,2014,USA,1
+Marathon,women,2015,BRN,1
+Marathon,women,2015,ETH,24
+Marathon,women,2015,JPN,1
+Marathon,women,2015,KEN,5
+Marathon,women,2016,BLR,1
+Marathon,women,2016,BRN,1
+Marathon,women,2016,ETH,12
+Marathon,women,2016,JPN,3
+Marathon,women,2016,KEN,8
+Marathon,women,2017,BRN,1
+Marathon,women,2017,ETH,17
+Marathon,women,2017,JPN,2
+Marathon,women,2017,KEN,15
+Marathon,women,2017,USA,1
+Marathon,women,2018,BRN,2
+Marathon,women,2018,ETH,37
+Marathon,women,2018,JPN,4
+Marathon,women,2018,KEN,20
+Marathon,women,2018,USA,1
+Marathon,women,2019,BRN,4
+Marathon,women,2019,ETH,41
+Marathon,women,2019,GER,1
+Marathon,women,2019,ISR,2
+Marathon,women,2019,JPN,1
+Marathon,women,2019,KEN,27
+Marathon,women,2019,NAM,1
+Marathon,women,2019,USA,2
+Marathon,women,2020,BRN,1
+Marathon,women,2020,ETH,23
+Marathon,women,2020,ISR,1
+Marathon,women,2020,JPN,4
+Marathon,women,2020,KEN,8
+Marathon,women,2020,NAM,1
+Marathon,women,2020,UGA,1
+Marathon,women,2020,USA,3
+Marathon,women,2021,BRN,1
+Marathon,women,2021,ETH,20
+Marathon,women,2021,GBR,1
+Marathon,women,2021,IRL,1
+Marathon,women,2021,ISR,2
+Marathon,women,2021,JPN,3
+Marathon,women,2021,KEN,17
+Marathon,women,2021,ROU,1
+Marathon,women,2022,AUS,1
+Marathon,women,2022,BRN,3
+Marathon,women,2022,CAN,1
+Marathon,women,2022,CRO,1
+Marathon,women,2022,ERI,3
+Marathon,women,2022,ETH,48
+Marathon,women,2022,GBR,1
+Marathon,women,2022,ISR,3
+Marathon,women,2022,ITA,1
+Marathon,women,2022,JPN,12
+Marathon,women,2022,KEN,31
+Marathon,women,2022,MAR,1
+Marathon,women,2022,NED,1
+Marathon,women,2022,ROU,2
+Marathon,women,2022,UGA,1
+Marathon,women,2022,USA,7
+Marathon,women,2023,AUS,3
+Marathon,women,2023,BRN,5
+Marathon,women,2023,CAN,1
+Marathon,women,2023,ERI,1
+Marathon,women,2023,ESP,1
+Marathon,women,2023,ETH,55
+Marathon,women,2023,GBR,3
+Marathon,women,2023,GER,1
+Marathon,women,2023,ITA,2
+Marathon,women,2023,JPN,8
+Marathon,women,2023,KEN,31
+Marathon,women,2023,NED,2
+Marathon,women,2023,TAN,1
+Marathon,women,2023,TUR,1
+Marathon,women,2023,UGA,1
+Marathon,women,2023,USA,4
+Marathon,women,2024,AUS,1
+Marathon,women,2024,BLR,1
+Marathon,women,2024,BRN,4
+Marathon,women,2024,CZE,1
+Marathon,women,2024,ERI,1
+Marathon,women,2024,ESP,2
+Marathon,women,2024,ETH,62
+Marathon,women,2024,GBR,1
+Marathon,women,2024,GER,3
+Marathon,women,2024,IRL,1
+Marathon,women,2024,JPN,8
+Marathon,women,2024,KEN,42
+Marathon,women,2024,NED,2
+Marathon,women,2024,RSA,1
+Marathon,women,2024,TAN,1
+Marathon,women,2024,UGA,2
+Marathon,women,2024,USA,6
+Marathon,women,2025,AUS,4
+Marathon,women,2025,BEL,1
+Marathon,women,2025,BRN,4
+Marathon,women,2025,CHN,1
+Marathon,women,2025,ERI,1
+Marathon,women,2025,ESP,1
+Marathon,women,2025,ETH,64
+Marathon,women,2025,FIN,2
+Marathon,women,2025,FRA,2
+Marathon,women,2025,GER,2
+Marathon,women,2025,ISR,1
+Marathon,women,2025,ITA,1
+Marathon,women,2025,JPN,6
+Marathon,women,2025,KEN,38
+Marathon,women,2025,NED,1
+Marathon,women,2025,ROU,1
+Marathon,women,2025,RSA,1
+Marathon,women,2025,TAN,2
+Marathon,women,2025,UGA,1
+Marathon,women,2025,USA,4

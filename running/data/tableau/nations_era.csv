@@ -1,0 +1,25 @@
+sex,era_label,nation_group,elite_performances,share,busiest_runner,busiest_runs,runners
+Men,2001-16  before,Ethiopia,102,0.3157894736842105,Haile Gebrselassie,10,43
+Men,2001-16  before,Japan,1,0.0030959752321981426,Toshinari Takaoka,1,1
+Men,2001-16  before,Kenya,203,0.628482972136223,Emmanuel Mutai,9,91
+Men,2001-16  before,Rest of world,17,0.05263157894736842,Abdelkader El Mouaziz,2,14
+Men,2017-19  arrival,Ethiopia,70,0.3783783783783784,Kelkile Gezahegn,4,39
+Men,2017-19  arrival,Japan,3,0.016216216216216217,Hiroto Inoue,1,3
+Men,2017-19  arrival,Kenya,91,0.4918918918918919,Amos Kipruto,5,53
+Men,2017-19  arrival,Rest of world,21,0.11351351351351352,Mo Farah,3,14
+Men,2020-25  super shoes,Ethiopia,224,0.3660130718954248,Tamirat Tola,9,91
+Men,2020-25  super shoes,Japan,39,0.06372549019607843,Yohei Ikeda,3,26
+Men,2020-25  super shoes,Kenya,213,0.3480392156862745,Eliud Kipchoge,7,103
+Men,2020-25  super shoes,Rest of world,136,0.2222222222222222,Bashir Abdi,8,73
+Women,2001-16  before,Ethiopia,111,0.4111111111111111,Aberu Kebede,10,41
+Women,2001-16  before,Japan,28,0.1037037037037037,Yoko Shibui,5,18
+Women,2001-16  before,Kenya,70,0.25925925925925924,Florence Kiplagat,7,25
+Women,2001-16  before,Rest of world,61,0.22592592592592592,Constantina Dita-Tomescu,8,29
+Women,2017-19  arrival,Ethiopia,95,0.5307262569832403,Roza Dereje,5,46
+Women,2017-19  arrival,Japan,7,0.03910614525139665,Mizuki Matsuda,2,6
+Women,2017-19  arrival,Kenya,62,0.3463687150837989,Valary Jemeli,6,29
+Women,2017-19  arrival,Rest of world,15,0.08379888268156424,Desi Jisa Mokonin,2,11
+Women,2020-25  super shoes,Ethiopia,272,0.45182724252491696,Fikrte Wereta,8,101
+Women,2020-25  super shoes,Japan,41,0.0681063122923588,Mizuki Matsuda,7,15
+Women,2020-25  super shoes,Kenya,167,0.27740863787375414,Joyciline Jepkosgei,8,75
+Women,2020-25  super shoes,Rest of world,122,0.2026578073089701,Lonah Chemtai Salpeter,7,61
