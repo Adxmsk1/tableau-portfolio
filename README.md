@@ -8,10 +8,24 @@ Three Tableau dashboards on sport, each built from data I collected and cleaned 
 | [running](running/) | What did super shoes do to marathon running? | World Athletics season top lists, 2001-2025 | long scroll, a marathon down the page |
 | [ski-jumping](ski-jumping/) | Who rules the skies? | FIS World Cup results, 2001-2025 | landscape |
 
+## The dashboards
+
+### Is chess getting younger?
+
 ![Is chess getting younger?](chess/output/review.png)
 
+### What did super shoes do to marathon running?
+
+The marathon one is a long scroll, so it's shown smaller here. Click it for full size.
+
+<img src="running/output/review.png" alt="The fastest decade in marathon history" width="440">
+
+### Who rules the skies?
+
+![Who rules the skies?](ski-jumping/output/review.png)
+
 To look at a dashboard without rebuilding anything, open the packaged workbook (`.twbx`) in each project's `tableau/`
-folder in Tableau Desktop or Tableau Reader. Full-size screenshots are in each project's `output/` folder.
+folder in Tableau Desktop or Tableau Reader.
 
 ## Getting the data
 
